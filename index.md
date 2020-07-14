@@ -35,7 +35,7 @@ You will find me extremely personable, prompt and organised. This allows me to e
 #### [5G Networks](https://www.5gnetworks.com.au)
 ###### May 2018 – **Present**
 
-Specialising in Windows support, I provide professional services to the second-largest credit union in Australia. I also provide additional technical support to other staff, teams and clients covering a vast range of technical platforms.
+Specialising in Windows support, I provide professional services to one of the largest credit unions in Australia. I also provide additional technical support to other staff, teams and clients covering a vast range of technical platforms.
 
 In this role I'm continuously delivering the following:
 
