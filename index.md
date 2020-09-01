@@ -4,7 +4,7 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I'm a highly motivated Senior Engineer who loves [BBQ](http://sneakypickle.com.au), Great local [Beer](https://www.littlebang.com.au), DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation. What I do have are a very particular set of skills, skills I continue to acquire and will develop further during my time working alongside you.
+I'm a highly motivated Senior Engineer who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation. What I do have are a very particular set of skills, skills I continue to acquire and will develop further during my time working alongside you.
 
 You will find me extremely personable, prompt and organised. This allows me to excel when interacting with staff and clients alike. I'm comfortable in high demand scenarios and during times of crisis.
 
@@ -35,7 +35,9 @@ You will find me extremely personable, prompt and organised. This allows me to e
 #### [5G Networks](https://www.5gnetworks.com.au)
 ###### May 2018 – **Present**
 
-Specialising in Windows support, I provide professional services to one of the largest credit unions in Australia. I also provide additional technical support to other staff, teams and clients covering a vast range of technical platforms.
+5G Networks is a licenced telecommunications carrier operating across Australia. Its mission is to be the partner of choice for unifying a seamless digital experience for their customers across data connectivity, cloud and data centre services, all underpinned by expert managed services.
+
+Specialising in Windows support, I provide professional services to one of the largest credit unions in Australia. I also provide additional technical support to 5G Networks staff, teams and clients covering a vast range of technical platforms.
 
 In this role I'm continuously delivering the following:
 
@@ -48,6 +50,13 @@ I have developed a laser focus which allows me to work proactively and autonomou
 
 Daily Life:
 
+- As a senior engineer within a team of 7, I work to deliver around the clock support for:
+  - Two Datacentre Locations
+    - 70+ Physical Servers
+    - 700+ Virtual Servers
+  - 42 Sites
+- Daily Datacentre operations and services
+- Hardware, Software and Licence maintenance and management
 - Comply with existing Client and 5GN methodologies, standards, processes & procedures
 - Liaise with external (Hardware/Software) vendors where required to ensure timely resolutions
 - Maintain current levels of documentation and reporting as per contractual obligations
@@ -59,18 +68,13 @@ Technical Duties:
 
 Experienced Support for...
 
+- Microsoft 365
 - Microsoft Azure
 - Microsoft Exchange Server 2010, 2013, Online
-- Microsoft Office 365
 - Microsoft System Center Configuration Manager
+- Microsoft Windows 10
 - Microsoft Windows Server 2003, 2008, 2012, 2016, 2019
 - PowerShell
-- Ubiquiti
-  - Wi-Fi
-  - Security Gateways
-  - Switches
-  - Remote Management
-  - Cameras
 - VMware vSphere and ESXi
 
 ### Web, Threat Analysis and Vulnerability Management
