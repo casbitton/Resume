@@ -77,11 +77,17 @@ Experienced Support for...
 - PowerShell
 - VMware vSphere and ESXi
 
-### Web, Threat Analysis and Vulnerability Management
+Web, Threat Analysis and Vulnerability Management
 
 - Forcepoint Cloud Security
 - Qualys
 - Vulnerability and Exposure Analysis
+
+#### Misc
+
+- Fortinet NSE 1,2,3 - Network Security Associate
+- Cisco HyperFlex for Systems Engineers
+- New Relic Certified Performance Pro
 
 ---
 
