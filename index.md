@@ -31,9 +31,15 @@ You will find me extremely personable, prompt and organised. This allows me to e
 
 # Experience
 
+### Senior Systems Engineer
+#### [Datacom](https://datacom.com)
+###### November 2020 – **Present**
+
+---
+
 ### Senior Support Engineer
 #### [5G Networks](https://www.5gnetworks.com.au)
-###### May 2018 – **Present**
+###### May 2018 – November 2020 - 2 yr 7 mos
 
 5G Networks is a licenced telecommunications carrier operating across Australia. Its mission is to be the partner of choice for unifying a seamless digital experience for their customers across data connectivity, cloud and data centre services, all underpinned by expert managed services.
 
@@ -93,7 +99,7 @@ Web, Threat Analysis and Vulnerability Management
 
 ### Desktop and Application Support
 #### [Peregrine Corporation](https://www.peregrine.com.au)
-###### February 2017 – May 2018 • 1 yr 4 mos
+###### February 2017 – May 2018 - 1 yr 4 mos
 
 In this role I worked directly with Peregrine Corporation staff, departmental teams and external clients to support technology-based solutions. This role allows the business to flourish further by satisfying its business needs and challenges.
 
@@ -138,7 +144,7 @@ As a member of the technical support team I have demonstrated commercial experie
 
 ### Quality Assurance Lead
 #### [Mighty Kingdom](https://www.mightykingdom.com)
-###### August 2016 - February 2017 • 7 mos
+###### August 2016 - February 2017 - 7 mos
 
 A brief shift from IT to Game Development.
 
@@ -163,7 +169,7 @@ This continuous integration pipeline for products built with the game engine Uni
 
 ### Desktop and Technical Support
 #### [Rising Sun Pictures](https://rsp.com.au)
-###### March 2015 - August 2016 • 1 yr 6 mos
+###### March 2015 - August 2016 - 1 yr 6 mos
 
 At Rising Sun Pictures, I was responsible for Desktop and Technical support to all staff, critical infrastructure, corporate partners and UniSA students. In this role I completed all level 1-2 tasks and provided additional support to the senior networking and systems engineering team.
 
@@ -203,9 +209,12 @@ Tape Library and Storage Management
 
 ---
 
+
+
 ### Content Administrator
 #### [Internode](https://www.internode.on.net) + [iiNet](https://www.iinet.net.au)
-###### May 2013 - March 2015 - 1 yr 11 mos
+###### May 2013 - March 2015 - 1 yr 11 mos , Total 5 yr 3 mos
+
 
 Expanding on my previous role as a Community Manger for Internode, I was able to continue my work on the games.on.net product to deliver Video Game and Entertainment content to the expanding iiNet customer base. This saw the growth and development of the iiNet Freezone. Many additional Freezone partners joined the ranks we expanded our offering of ultra fast download services to customers!
 
@@ -277,17 +286,20 @@ My role was responsible for the following duties:
 ## References
 ##### *Phone numbers available upon request*
 
-#### Justin Katavich, Solution Designer at DXC Technology
-* [LinkedIn](https://www.linkedin.com/in/jkatavich)
-
 #### Brad Sprigg, National Dynamics 365 Consultant at Data#3
 * [LinkedIn](https://www.linkedin.com/in/brad-sprigg-864b0567/)
 
 #### Dale Tuzewski, Cyber Security Specialist at People's Choice Credit Union
 * [LinkedIn](https://www.linkedin.com/in/dale-tuzewski-78bb3aa/)
 
-#### Daniel Russell, Senior Technical Consultant at Nuago
+#### Paul Roper, Technical Team Leader at 5G Networks Ltd
+* [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
+
+#### Mark Berry, Senior Account Manager at 5G Networks Ltd
+* [LinkedIn](https://www.linkedin.com/in/mark-berry-45799439/)
+
+#### Daniel Russell, Team Lead - Compute and Cloud at Nuago
 * [LinkedIn](https://www.linkedin.com/in/daniel-russell-6a8b142b)
 
-#### Tim Colwill
-* [LinkedIn](https://www.linkedin.com/in/timcolwill/)
+#### Justin Katavich, Solution Designer at DXC Technology
+* [LinkedIn](https://www.linkedin.com/in/jkatavich)
