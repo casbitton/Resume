@@ -300,7 +300,7 @@ My role was responsible for the following duties:
 #### Dale Tuzewski, Cyber Security Specialist at People's Choice Credit Union
 * [LinkedIn](https://www.linkedin.com/in/dale-tuzewski-78bb3aa/)
 
-#### Paul Roper, Technical Team Leader at 5G Networks Ltd
+#### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
 * [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
 
 #### Mark Berry, Senior Account Manager at 5G Networks Ltd
