@@ -43,6 +43,8 @@ Day-to-day I work with a number of clients, ranging from large Not-for-profit or
 
 At this time I focus on technology within the Wintel space, however the lines often blur these days based on business needs. I'm often working directly with the Linux/Unix, Network, Database, Infrastructure applications teams as we all share a common goal in providing fantastic infrastructure and exceeding expectations.
 
+- WWCC, Baseline
+
 ---
 
 ### Senior Support Engineer
@@ -84,7 +86,7 @@ Experienced Support for...
 
 - Microsoft 365
 - Microsoft Azure
-- Microsoft Exchange Server 2010, 2013, Online
+- Microsoft Exchange Server 2010, 2013, 2016, 2019, Online
 - Microsoft System Center Configuration Manager
 - Microsoft Windows 10
 - Microsoft Windows Server 2003, 2008, 2012, 2016, 2019
@@ -216,8 +218,6 @@ Tape Library and Storage Management
 - SAN
 
 ---
-
-
 
 ### Content Administrator
 #### [Internode](https://www.internode.on.net) + [iiNet](https://www.iinet.net.au)
