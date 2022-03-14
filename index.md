@@ -297,20 +297,17 @@ My role was responsible for the following duties:
 ## References
 ##### *Phone numbers available upon request*
 
-#### Brad Sprigg, National Dynamics 365 Consultant at Data#3
-* [LinkedIn](https://www.linkedin.com/in/brad-sprigg-864b0567/)
+#### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
+* [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
 
 #### Dale Tuzewski, Cyber Security Specialist at People's Choice Credit Union
 * [LinkedIn](https://www.linkedin.com/in/dale-tuzewski-78bb3aa/)
 
-#### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
-* [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
+#### Brad Sprigg, National Dynamics 365 Consultant at Data#3
+* [LinkedIn](https://www.linkedin.com/in/brad-sprigg-864b0567/)
 
 #### Mark Berry, Senior Account Manager at 5G Networks Ltd
 * [LinkedIn](https://www.linkedin.com/in/mark-berry-45799439/)
-
-#### Daniel Russell, Team Lead - Compute and Cloud at Nuago
-* [LinkedIn](https://www.linkedin.com/in/daniel-russell-6a8b142b)
 
 #### Justin Katavich, Solution Designer at DXC Technology
 * [LinkedIn](https://www.linkedin.com/in/jkatavich)
