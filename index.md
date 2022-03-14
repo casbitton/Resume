@@ -35,15 +35,18 @@ You will find me extremely personable, prompt and organised. This allows me to e
 #### [Datacom](https://datacom.com)
 ###### November 2020 – **Present**
 
-Here at Datacom I'm proudly part of the Platform engineering group, specialising in Managed services across on-premise and cloud infrastructure.
+Here at Datacom I'm proudly part of the Platform engineering group, specialising in managed IT services across on-premise and cloud infrastructure.
 
 In this role I am not only an escalation point within the team but the wider group when needed. This has provided great opportunities to provide extensive support across the business whenever possible covering a wide range of technologies.
 
-Day-to-day I work with a number of clients, ranging from large Not-for-profit organisations to major Australian energy producers and great local South Australian government agencies.
+Day-to-day I work with a number of clients. This ranges from Not-for-profit organisations to major Australian energy producers and great local South Australian government agencies.
 
-At this time I focus on technology within the Wintel space, however the lines often blur these days based on business and client needs. I'm often working directly with the Linux/Unix, Network, Database, Infrastructure applications teams as we all share a common goal in providing fantastic infrastructure and exceeding expectations.
+At this time I focus on technology within the Wintel space, however the lines often blur these days based on business and client needs. I'm often found working directly with the Unix, Network and DBA teams as we all share a common goal in providing fantastic infrastructure and exceeding expectations.
 
-- WWCC, Baseline
+#### Clearance
+
+- WWCC
+- Baseline
 
 ---
 
