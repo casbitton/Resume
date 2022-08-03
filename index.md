@@ -4,7 +4,7 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I'm a highly motivated Senior Engineer who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation. What I do have are a very particular set of skills, skills I continue to acquire and will develop further during my time working alongside you.
+I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), Agile Ways of Working, DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation.
 
 You will find me extremely personable, prompt and organised. This allows me to excel when interacting with staff and clients alike. I'm comfortable in high demand scenarios and during times of crisis.
 
@@ -17,9 +17,17 @@ You will find me extremely personable, prompt and organised. This allows me to e
 
 ### Personal Career Milestones
 
-- Teach, Lead and help staff navigate the depths of Change Control, Complex and high stakes environments with an amazing team at [5G Networks](https://5gnetworks.com.au)!
+- Contribute towards the successful implementation and deployment of ScienceLogic at Datacom across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
+- Teach, Lead and help staff navigate the depths of complex and high stakes environments with an amazing team at [5G Networks](https://5gnetworks.com.au)!
 - Work day and night alongside the amazing Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver incredible Visual Effects for many [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
 - Manage, build and grow [games.on.net](http://games.on.net), Australia’s largest national games network for [Internode](http://www.internode.on.net) and [iiNet](https://www.iinet.net.au).
+
+---
+
+#### Clearance
+
+- WWCC
+- Baseline
 
 ---
 
@@ -31,9 +39,40 @@ You will find me extremely personable, prompt and organised. This allows me to e
 
 # Experience
 
+### Technical Lead
+#### [Datacom](https://datacom.com)
+###### April 2022 – **Present**
+
+> At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this ever-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years’ experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
+
+In this role I am responsible for improving the overall effectiveness and efficiency of IT systems and processes.
+
+In this role I provide leadership and direction to the team. I work closely with senior leaders to proactively contribute to the success of the organization and our automation initiatives. I advertise the importance of automation and enhance the culture of automation.
+
+As a Technical Lead for Datacom I am dedicated to the success of the team and the following responsibilities:
+
+- Providing input to planning future computer requirements, capacity planning and the formulation of computing standards and guidelines.
+- Investigating available hardware and/or software and recommending appropriate acquisitions.
+- Establishing and maintaining Operational Excellence.
+- Provide expert advice and guidance to other technology teams and business stakeholders to deliver on both short and long-term goals of Datacom.
+
+#### Sectors
+- Corporates
+- Education
+- Government
+- Healthcare
+
+#### Key Focus
+- Artificial Intelligence for IT Operations (AIOps)
+
+- Platform Engineering
+  - Design, build, and delivery
+  - Platform management
+  - Platform strategy
+
 ### Senior Systems Engineer
 #### [Datacom](https://datacom.com)
-###### November 2020 – **Present**
+###### November 2020 – April 2022 - 1 yr 6 mos
 
 Here at Datacom I'm proudly part of the Platform engineering group, specialising in managed IT services across on-premise and cloud infrastructure.
 
@@ -43,18 +82,13 @@ Day-to-day I work with a number of clients. This ranges from Not-for-profit orga
 
 At this time I focus on technology within the Wintel space, however the lines often blur these days based on business and client needs. I'm often found working directly with the Unix, Network and DBA teams as we all share a common goal in providing fantastic infrastructure and exceeding expectations.
 
-#### Clearance
-
-- WWCC
-- Baseline
-
 ---
 
 ### Senior Support Engineer
 #### [5G Networks](https://www.5gnetworks.com.au)
 ###### May 2018 – November 2020 - 2 yr 7 mos
 
-5G Networks is a licenced telecommunications carrier operating across Australia. Its mission is to be the partner of choice for unifying a seamless digital experience for their customers across data connectivity, cloud and data centre services, all underpinned by expert managed services.
+> 5G Networks is a licenced telecommunications carrier operating across Australia. Our mission is to be the partner of choice for unifying a seamless digital experience for our customers across data connectivity, cloud and data centre services, all underpinned by our expert managed services.
 
 Specialising in Windows support, I provide professional services to one of the largest credit unions in Australia. I also provide additional technical support to 5G Networks staff, teams and clients covering a vast range of technical platforms.
 
@@ -67,7 +101,7 @@ In this role I'm continuously delivering the following:
 
 I have developed a laser focus which allows me to work proactively and autonomously, while maintaining a high level of communication with colleagues. My keen analytical skills allow me to learn fast, grow and become the raft when agile travels over the waterfall. It's great to collaborate with the team (or solo) and client to develop and deploy solutions which last.
 
-Daily Life:
+#### Primary responsibilities:
 
 - As a senior engineer within a team of 7, I work to deliver around the clock support for:
   - Two Datacentre Locations
@@ -83,9 +117,7 @@ Daily Life:
 - Provide input, ideas and suggest improvements toward the betterment of 5GN processes, systems and environment
 - Handle projects and BAU
 
-Technical Duties:
-
-Experienced Support for...
+#### Technical Duties across:
 
 - Microsoft 365
 - Microsoft Azure
@@ -96,11 +128,12 @@ Experienced Support for...
 - PowerShell
 - VMware vSphere and ESXi
 
-Web, Threat Analysis and Vulnerability Management
+#### Web, Threat Analysis and Vulnerability Management
 
 - Forcepoint Cloud Security
 - Qualys
 - Vulnerability and Exposure Analysis
+- Vulnerability Remediation
 
 #### Misc
 
@@ -116,42 +149,39 @@ Web, Threat Analysis and Vulnerability Management
 
 In this role I worked directly with Peregrine Corporation staff, departmental teams and external clients to support technology-based solutions. This role allows the business to flourish further by satisfying its business needs and challenges.
 
-I was responsible for the support of software, server and desktop infrastructure, within time frames and services levels. Support is provided to both local and remote staff. This support is provided over the phone, in person and ad hoc on-site visits when required. I have participated within a 24/7 Operations environment.
+I was responsible for the support of software, server and desktop infrastructure, within time frames and services levels. Support is provided to both local and remote staff. This support is provided over the phone, in person and ad hoc on-site visits when required. I participated within a 24/7 Operations environment.
 
 ITIL heavily influences this environment. All IT activities are recorded and updated in the service management system (JIRA), in a timely and accurate manner. Issues are often proactively raised to ensure incidents are managed and effectively on behalf of end users.
 
 The core components of this role that I excel in are:
 
-- A commitment to vendor study
 - Designing and maintaining technical documentation
 - Exposure to a large variety of software
-- Flexibility towards both work and the role
 - Level 2 and 3 support
 - On-call and after-hours support
 - Physical Desktop and Network Support and Deployment
 - Strong Communication skills
-- Strong troubleshooting and problem-solving skills, with an exceptional customer focus
 
 As a member of the technical support team I have demonstrated commercial experience in the following technologies:
 
 - Activate directory: Knowledge of Group Policy, Organisational Units, Objects
 - AirWatch
 - Atlassian Software: Jira, Confluence, Trello, SourceTree
-- AV Support (Sophos)
+- AV Support
 - Cisco Jabber
 - Cisco Unified Communications Manager
 - Mac OS and iOS Support
 - Microsoft Azure
 - Microsoft Exchange 2013 - Hybrid, Outlook 365
-- Windows Server 2008 R2, 2012, 2016
+- Microsoft System Center Configuration Manager (SCCM)
 - Network Administration
 - Office 365
 - PowerShell
-- SCCM - Software Distribution and Configuration Management
 - Storage, Cloud Services, Backup and Replication technologies (CommVault)
 - Supporting a large Windows 10 roll-out, 350+ devices
 - Supporting a large Windows XP deployment, 500+ devices
 - Windows Desktop administration (Windows XP, 7, 10)
+- Windows Server 2008 R2, 2012, 2016
 
 ---
 
@@ -159,12 +189,11 @@ As a member of the technical support team I have demonstrated commercial experie
 #### [Mighty Kingdom](https://www.mightykingdom.com)
 ###### August 2016 - February 2017 - 7 mos
 
-A brief shift from IT to Game Development.
+*A brief shift from IT to Game Development.*
 
 Mighty Kingdom are a premier software development team in Adelaide, the team is building exciting new entertainment products for a global audience.
 
-Primary responsibilities:  
-
+#### Primary responsibilities:
 - Test Planning, Functional Testing, Triage and Issue Management
 - Concurrent QA testing and critical feedback across all active projects during development sprints
 - Reviewing, replicating and assisting to resolve reported issues from Customers and Clients
@@ -180,22 +209,16 @@ This continuous integration pipeline for products built with the game engine Uni
 
 ---
 
-### Desktop and Technical Support
+### Technical Support
 #### [Rising Sun Pictures](https://rsp.com.au)
 ###### March 2015 - August 2016 - 1 yr 6 mos
 
-At Rising Sun Pictures, I was responsible for Desktop and Technical support to all staff, critical infrastructure, corporate partners and UniSA students. In this role I completed all level 1-2 tasks and provided additional support to the senior networking and systems engineering team.
+> Over the past two decades, Rising Sun Pictures (RSP) has been delighting and inspiring audiences worldwide, by creating some of Hollywood’s most memorable screen moments.
 
-#### Core responsibility
+At Rising Sun Pictures, I was responsible for Technical support to all staff, critical infrastructure and corporate partners.
+
+#### Primary responsibilities
 - Unix Administration
-
-User Management
-- Creation/Suspension/Deletion of All User Accounts and maintenance
-- Desk Moves for Staff
-- Deployment of furniture / Equipment
-- Maintaining and updating Floor Plans
-- Asset Management for all Computer equipment
-- Stock-take and Production System Audits
 
 Desktop Support
 - CentOS 6 Desktop Administration
@@ -207,14 +230,15 @@ Server Support
 - CentOS 6 Administration
 
 - Monitored and maintained Visual Effects Render Farm hardware
-  - 500+ Dell and HP servers located on-site and off-site at Data centre(s)
-  - Hardware Deployments
+  - 500+ Dell and HP servers located on-site and off-site at Data centres
   - DNS / DHCP Administration
   - Environmental monitoring, Temperature and Water
+  - Hardware Deployments
   - Nagios / Prometheus / Cacti
   
 - Ubiquiti Network Management
-  - Wifi Deployment, configuration and troubleshooting
+  - Wifi Deployment
+  - Configuration
 
 Tape Library and Storage Management
 - Backup Infrastructure
@@ -250,7 +274,6 @@ A few examples are:
 - Riot Games, League of Legends
 - Electronic Arts, Battlefield
 
----
 
 ### Community Manager
 #### [Internode](https://www.internode.on.net)
