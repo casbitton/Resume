@@ -6,8 +6,6 @@ Hello, my name is **Cas**!
 
 I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), Agile Ways of Working, DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation.
 
-You will find me extremely personable, prompt and organised. This allows me to excel when interacting with staff and clients alike. I'm comfortable in high demand scenarios and during times of crisis.
-
 ### Contact
 - Email: [casbitton@gmail.com](mailto:casbitton@gmail.com)
 - Phone: [0401 569 498](tel:+0401569498)
@@ -17,7 +15,7 @@ You will find me extremely personable, prompt and organised. This allows me to e
 
 ### Personal Career Milestones
 
-- Contribute towards the successful implementation and deployment of ScienceLogic at Datacom across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
+- Contribute towards the successful implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
 - Teach, Lead and help staff navigate the depths of complex and high stakes environments with an amazing team at [5G Networks](https://5gnetworks.com.au)!
 - Work day and night alongside the amazing Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver incredible Visual Effects for many [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
 - Manage, build and grow [games.on.net](http://games.on.net), Australia’s largest national games network for [Internode](http://www.internode.on.net) and [iiNet](https://www.iinet.net.au).
@@ -33,7 +31,7 @@ You will find me extremely personable, prompt and organised. This allows me to e
 
 ### Core Skills
 
-[ Atlassian ] [ Azure ] [ DevOps ] [ Docker ] [ Git ] [ Hyper-V ] [ Linux ] [ Office 365 ] [ PowerShell ] [ Security ] [ Veeam ] [ VMware ] [ Windows Server ]
+[ Atlassian ] [ Azure ] [ DevOps ] [ Docker ] [ Git ] [ Hyper-V ] [ Linux ] [ PowerShell ] [ Security ] [ Veeam ] [ VMware ] [ Windows Server ]
 
 ---
 
