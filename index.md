@@ -15,7 +15,7 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 
 ### Personal Career Milestones
 
-- Contribute towards the successful implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
+- Contribute towards the successful ongoing implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
 - Teach, Lead and help staff navigate the depths of complex and high stakes environments with an amazing team at [5G Networks](https://5gnetworks.com.au)!
 - Work day and night alongside the amazing Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver incredible Visual Effects for many [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
 - Manage, build and grow [games.on.net](http://games.on.net), Australia’s largest national games network for [Internode](http://www.internode.on.net) and [iiNet](https://www.iinet.net.au).
