@@ -45,7 +45,7 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 
 In this role I am responsible for improving the overall effectiveness and efficiency of IT systems and processes.
 
-In this role I provide leadership and direction to the team. I work closely with senior leaders to proactively contribute to the success of the organization and our automation initiatives. I advertise the importance of automation and enhance the culture of automation.
+In this role I provide leadership and direction to the team. I work closely with senior leaders to proactively contribute to the success of the organisation and our automation initiatives. I advertise the importance of automation and enhance the culture of automation.
 
 As a Technical Lead for Datacom I am dedicated to the success of the team and the following responsibilities:
 
