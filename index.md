@@ -84,7 +84,7 @@ Key Responsibilities:
 - Effectively managed and maintained technical documentation, enabling smooth collaboration among team members and ensuring accurate records of system configurations and changes.
 - Proactively managed clients' infrastructure, optimising performance and reliability while minimising potential disruptions.
 - Identified opportunities for service process improvement and actively contributed to initiatives aimed at enhancing service delivery efficiency and effectiveness.
-- Demonstrated exceptional knowledge and expertise in Windows Server technologies, including Windows server OS, Active Directory, Group Policy, DNS, ADFS, DHCP, and DFS.
+- Exceptional knowledge and expertise in Windows Server technologies, including Windows server OS, Active Directory, Group Policy, DNS, ADFS, DHCP, and DFS.
 - Employed strong analytical and problem-solving skills to tackle complex technical challenges, resolving issues promptly and effectively.
 - Nurtured strong customer relationships through excellent communication, understanding their needs, and delivering top-notch support services to meet their expectations.
 - Showcased an interest in and experience with Public Cloud platforms, such as Azure and AWS, and their integration with existing infrastructure.
