@@ -44,8 +44,6 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 
 > At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this ever-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years’ experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
 
-In this role I am responsible for improving the overall effectiveness and efficiency of IT systems and processes.
-
 In this role I provide leadership and direction to the team. I work closely with senior leaders to proactively contribute to the success of the organisation and our automation initiatives. I advertise the importance of automation and enhance the culture of automation.
 
 As a Technical Lead for Datacom I am dedicated to the success of the team and the following responsibilities:
