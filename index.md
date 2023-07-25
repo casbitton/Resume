@@ -25,7 +25,7 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 #### Clearance
 
 - WWCC
-- Baseline
+- NV1
 
 ---
 
@@ -39,7 +39,8 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 
 ### Technical Lead
 #### [Datacom](https://datacom.com)
-###### April 2022 – **Present**
+###### Apr 2022 - Sep 2022 - 6 mos
+###### Total tenure: 1 year 11 months
 
 > At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this ever-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years’ experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
 
@@ -78,7 +79,26 @@ In this role I am not only an escalation point within the team but the wider gro
 
 Day-to-day I work with a number of clients. This ranges from Not-for-profit organisations to major Australian energy producers and great local South Australian government agencies.
 
-At this time I focus on technology within the Wintel space, however the lines often blur these days based on business and client needs. I'm often found working directly with the Unix, Network and DBA teams as we all share a common goal in providing fantastic infrastructure and exceeding expectations.
+Key Responsibilities:
+- Provided technical maintenance and support services to clients within agreed service levels, ensuring that their service level agreements were met and exceeded.
+- Effectively managed and maintained technical documentation, enabling smooth collaboration among team members and ensuring accurate records of system configurations and changes.
+- Proactively managed clients' infrastructure, optimising performance and reliability while minimising potential disruptions.
+- Identified opportunities for service process improvement and actively contributed to initiatives aimed at enhancing service delivery efficiency and effectiveness.
+- Demonstrated exceptional knowledge and expertise in Windows Server technologies, including Windows server OS, Active Directory, Group Policy, DNS, ADFS, DHCP, and DFS.
+- Employed strong analytical and problem-solving skills to tackle complex technical challenges, resolving issues promptly and effectively.
+- Nurtured strong customer relationships through excellent communication, understanding their needs, and delivering top-notch support services to meet their expectations.
+- Showcased an interest in and experience with Public Cloud platforms, such as Azure and AWS, and their integration with existing infrastructure.
+- Applied Agile methodologies and ITIL best practices to streamline processes and ensure adherence to industry-leading standards.
+- Emphasised the significance of accurate documentation and punctual timekeeping to maintain streamlined workflows and facilitate seamless collaboration.
+- Expertly managed a diverse array of technical tasks, including Microsoft operating systems, virtualisation technologies (VMware, Azure, AWS), Remote Desktop Services, Azure IaaS, Microsoft 365 (Exchange Online), enterprise antivirus, backup products, systems monitoring tools, hardware, storage, PowerShell scripting, security, Exchange support, and patching.
+- Demonstrated proficiency in additional technical areas, including Windows Server environments and desktop operating systems, VMware virtualised environment management and maintenance patching, appliance supporting VMware environments, and management thereof (including firmware updates), and knowledge of BigFix.
+
+Achievements:
+- Successfully led critical infrastructure upgrade projects, ensuring minimal downtime and seamless transitions for clients, earning praise for exemplary project management skills.
+- Received consistent positive feedback from clients for exceptional customer relationship building and management, leading to increased customer satisfaction and client retention rates.
+- Proactively identified and resolved potential security vulnerabilities, significantly enhancing the overall security posture of clients' systems and infrastructure.
+
+Working as a Senior Systems Engineer at Datacom provided me with a fantastic opportunity to contribute my technical expertise while collaborating with a dynamic team of peers. I am proud of the achievements I made during my tenure and the positive impact I had on customer satisfaction and service excellence.
 
 ---
 
@@ -162,7 +182,7 @@ The core components of this role that I excel in are:
 
 As a member of the technical support team I have demonstrated commercial experience in the following technologies:
 
-- Activate directory: Knowledge of Group Policy, Organisational Units, Objects
+- Active directory: Knowledge of Group Policy, Organisational Units, Objects
 - AirWatch
 - Atlassian Software: Jira, Confluence, Trello, SourceTree
 - AV Support
@@ -219,13 +239,13 @@ At Rising Sun Pictures, I was responsible for Technical support to all staff, cr
 - Unix Administration
 
 Desktop Support
-- CentOS 6 Desktop Administration
+- CentOS Desktop Administration
 - Application Patching/Maintenance for 100+ Applications across the business for all departments.
   - Windows/Linux/Mac OS
   - Automation and Package Management
 
 Server Support
-- CentOS 6 Administration
+- CentOS Administration
 
 - Monitored and maintained Visual Effects Render Farm hardware
   - 500+ Dell and HP servers located on-site and off-site at Data centres
@@ -246,7 +266,8 @@ Tape Library and Storage Management
 
 ### Content Administrator
 #### [Internode](https://www.internode.on.net) + [iiNet](https://www.iinet.net.au)
-###### May 2013 - March 2015 - 1 yr 11 mos , Total 5 yr 3 mos
+###### May 2013 - March 2015 - 1 yr 11 mos
+###### Total Tenure: 5 year 3 months
 
 
 Expanding on my previous role as a Community Manger for Internode, I was able to continue my work on the games.on.net product to deliver Video Game and Entertainment content to the expanding iiNet customer base. This saw the growth and development of the iiNet Freezone. Many additional Freezone partners joined the ranks we expanded our offering of ultra fast download services to customers!
@@ -316,19 +337,18 @@ My role was responsible for the following duties:
 ---
 
 ## References
-##### *Phone numbers available upon request*
 
 #### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
 * [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
 
-#### Dale Tuzewski, Cyber Security Specialist at People's Choice Credit Union
+#### Dale Tuzewski, Cyber Tools Specialist at People's Choice Credit Union
 * [LinkedIn](https://www.linkedin.com/in/dale-tuzewski-78bb3aa/)
 
 #### Brad Sprigg, National Dynamics 365 Consultant at Data#3
 * [LinkedIn](https://www.linkedin.com/in/brad-sprigg-864b0567/)
 
-#### Mark Berry, Senior Account Manager at 5G Networks Ltd
+#### Mark Berry, Solution Sales Executive at Konica Minolta Australia
 * [LinkedIn](https://www.linkedin.com/in/mark-berry-45799439/)
 
-#### Justin Katavich, Solution Designer at DXC Technology
+#### Justin Katavich, Delivery Manager at DXC Technology
 * [LinkedIn](https://www.linkedin.com/in/jkatavich)
