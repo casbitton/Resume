@@ -241,7 +241,7 @@ My role as Quality Assurance Lead at Mighty Kingdom not only underscored my dedi
 
 - **Comprehensive Desktop Support:** Managed CentOS desktop administration, overseeing application patching and maintenance for a diverse suite of 100+ applications spanning Windows, Linux, and macOS platforms. Introduced automation and package management strategies to streamline processes and enhance efficiency.
 
-- **Robust Server Support:** Led CentOS server administration, maintaining a robust server environment crucial for production workflows. Oversaw a high-performance Visual Effects Render Farm comprising 500+ Dell and HP servers situated both on-site and at remote data centers.
+- **Robust Server Support:** CentOS server administration, maintaining a robust server environment crucial for production workflows. Oversaw a high-performance Visual Effects Render Farm comprising 500+ Dell and HP servers situated both on-site and at remote data centers.
 
 - **Render Farm Maintenance:** Monitored and sustained the Visual Effects Render Farm hardware, orchestrating essential tasks such as hardware deployments, DNS/DHCP administration, and environmental monitoring encompassing temperature and water levels. Employed monitoring tools including Nagios, Prometheus, and Cacti to ensure optimal performance.
 
