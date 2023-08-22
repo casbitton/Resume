@@ -150,7 +150,7 @@ Working as a Senior Systems Engineer at Datacom provided me with a fantastic opp
 #### [5G Networks](https://www.5gnetworks.com.au)
 ###### May 2018 – November 2020 - 2 yr 7 mos
 
-> Collaborative and Proactive Senior Support Engineer specialising in Windows support, delivering exceptional service to a prominent Australian bank and offering technical expertise to 5G Networks staff and clients. Adept at identifying and resolving senior-level faults, documenting projects, and contributing to the expansion of future products and initiatives.
+Collaborative and Proactive Senior Support Engineer specialising in Windows support, delivering exceptional service to a prominent Australian bank and offering technical expertise to 5G Networks staff and clients. Adept at identifying and resolving senior-level faults, documenting projects, and contributing to the expansion of future products and initiatives.
 
 #### Key Achievements and Responsibilities:
 
@@ -237,17 +237,17 @@ My role as Quality Assurance Lead at Mighty Kingdom not only underscored my dedi
 
 #### Key Accomplishments and Responsibilities:
 
-- **Unix and CentOS Administration:** Spearheaded Unix and CentOS administration, optimising system performance and ensuring a secure computing environment for the entire organisation.
+- Unix and CentOS Administration: Spearheaded Unix and CentOS administration, optimising system performance and ensuring a secure computing environment for the entire organisation.
 
-- **Comprehensive Desktop Support:** Managed CentOS desktop administration, overseeing application patching and maintenance for a diverse suite of 100+ applications spanning Windows, Linux, and macOS platforms. Introduced automation and package management strategies to streamline processes and enhance efficiency.
+- Comprehensive Desktop Support: Managed CentOS desktop administration, overseeing application patching and maintenance for a diverse suite of 100+ applications spanning Windows, Linux, and macOS platforms. Introduced automation and package management strategies to streamline processes and enhance efficiency.
 
-- **Robust Server Support:** CentOS server administration, maintaining a robust server environment crucial for production workflows. Oversaw a high-performance Visual Effects Render Farm comprising 500+ Dell and HP servers situated both on-site and at remote data centers.
+- Robust Server Support: CentOS server administration, maintaining a robust server environment crucial for production workflows. Oversaw a high-performance Visual Effects Render Farm comprising 500+ Dell and HP servers situated both on-site and at remote data centers.
 
-- **Render Farm Maintenance:** Monitored and sustained the Visual Effects Render Farm hardware, orchestrating essential tasks such as hardware deployments, DNS/DHCP administration, and environmental monitoring encompassing temperature and water levels. Employed monitoring tools including Nagios, Prometheus, and Cacti to ensure optimal performance.
+- Render Farm Maintenance: Monitored and sustained the Visual Effects Render Farm hardware, orchestrating essential tasks such as hardware deployments, DNS/DHCP administration, and environmental monitoring encompassing temperature and water levels. Employed monitoring tools including Nagios, Prometheus, and Cacti to ensure optimal performance.
 
-- **Ubiquiti Network Management:** Successfully deployed and configured Ubiquiti networks, providing reliable and high-speed Wi-Fi connectivity throughout the facility. Managed network configurations to optimise performance and security.
+- Ubiquiti Network Management: Successfully deployed and configured Ubiquiti networks, providing reliable and high-speed Wi-Fi connectivity throughout the facility. Managed network configurations to optimise performance and security.
 
-- **Tape Library and Storage Expertise:** Took charge of the backup infrastructure and storage management, guaranteeing data integrity and disaster recovery capabilities. Proficiently managed the SAN (Storage Area Network) to safeguard critical assets.
+- Tape Library and Storage Expertise: Took charge of the backup infrastructure and storage management, guaranteeing data integrity and disaster recovery capabilities. Proficiently managed the SAN (Storage Area Network) to safeguard critical assets.
 
 My tenure at RSP was marked by unwavering dedication to technical excellence, problem-solving prowess, and collaboration across departments to foster a seamless technological ecosystem. My contributions not only upheld operational continuity but also played a pivotal role in elevating the quality of cinematic creations that have become synonymous with Rising Sun Pictures.
 
@@ -260,23 +260,23 @@ My tenure at RSP was marked by unwavering dedication to technical excellence, pr
 
 I had a fantastic time at Internode! I played a pivotal role in driving the growth and success of Internode and iiNet by spearheading content administration and community management efforts.
 
-**Responsibilities and Achievements:**
+Responsibilities and Achievements:
 
-- **Digital Marketing and Community Engagement:** Orchestrated strategic digital marketing campaigns to bolster brand visibility and foster community engagement. Developed and executed multi-media content, including web, text, and video, which cultivated a dynamic online community with over 180,000 members.
+- Digital Marketing and Community Engagement: Orchestrated strategic digital marketing campaigns to bolster brand visibility and foster community engagement. Developed and executed multi-media content, including web, text, and video, which cultivated a dynamic online community with over 180,000 members.
 
-- **Infrastructure Management and Maintenance:** Assumed the responsibility of managing virtual data centers across Australia. Oversaw the maintenance of http://mirror.internode.on.net, a premier repository for Linux distributions, ensuring seamless automated operations.
+- Infrastructure Management and Maintenance: Assumed the responsibility of managing virtual data centers across Australia. Oversaw the maintenance of http://mirror.internode.on.net, a premier repository for Linux distributions, ensuring seamless automated operations.
 
-- **Partnerships and Stakeholder Management:** Served as the primary point of contact for games.on.net under iiNet, cultivating partnerships with prominent entities such as ABC iView, Apple iTunes, Microsoft Xbox, Valve Software, Riot Games, and Electronic Arts. Expanded the iiNet Freezone, enhancing ultra-fast download services through new partnerships.
+- Partnerships and Stakeholder Management: Served as the primary point of contact for games.on.net under iiNet, cultivating partnerships with prominent entities such as ABC iView, Apple iTunes, Microsoft Xbox, Valve Software, Riot Games, and Electronic Arts. Expanded the iiNet Freezone, enhancing ultra-fast download services through new partnerships.
 
-- **Streaming and Content Delivery:** Managed the Internode Content Delivery Network, supporting national and public broadcasters. Oversaw the maintenance of streaming radio relays, expanding the reach to 150+ global stations.
+- Streaming and Content Delivery: Managed the Internode Content Delivery Network, supporting national and public broadcasters. Oversaw the maintenance of streaming radio relays, expanding the reach to 150+ global stations.
 
-- **Policy Governance and Risk Management:** Demonstrated expertise in policy governance, risk mitigation, security, and compliance, ensuring the integrity and security of services.
+- Policy Governance and Risk Management: Demonstrated expertise in policy governance, risk mitigation, security, and compliance, ensuring the integrity and security of services.
 
-- **Server Infrastructure and Deployment:** Administered Windows and Ubuntu systems, overseeing physical hardware and virtual deployments across Australia. Collaborated with industry leaders to provide dedicated game server infrastructure, content, and events for Australian gamers.
+- Server Infrastructure and Deployment: Administered Windows and Ubuntu systems, overseeing physical hardware and virtual deployments across Australia. Collaborated with industry leaders to provide dedicated game server infrastructure, content, and events for Australian gamers.
 
-- **Market Research and Strategy:** Conducted comprehensive market research to inform growth strategies for the Internode and games.on.net brands. Developed and executed campaigns that resonated with the gaming audience, fostering brand loyalty.
+- Market Research and Strategy: Conducted comprehensive market research to inform growth strategies for the Internode and games.on.net brands. Developed and executed campaigns that resonated with the gaming audience, fostering brand loyalty.
 
-**Key Accomplishments:**
+Key Accomplishments:
 
 - Orchestrated strategic partnerships, including with major players like ABC, Apple, Microsoft, Valve Software, and Riot Games, to expand the iiNet Freezone's offerings and enhance customer experiences.
 
