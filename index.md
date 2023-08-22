@@ -32,7 +32,7 @@ I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https
 
 ### Core Skills
 
-[ Atlassian ] [ Azure ] [ DevOps ] [ Docker ] [ Git ] [ Hyper-V ] [ Linux ] [ PowerShell ] [ Security ] [ Veeam ] [ VMware ] [ Windows Server ]
+[ Atlassian ] [ Azure ] [ DevOps ] [ Linux ] [ PowerShell ] [ Security ] [ Veeam ] [ VMware ] [ Windows ]
 
 ---
 
@@ -228,10 +228,6 @@ My role as Quality Assurance Lead at Mighty Kingdom not only underscored my dedi
 ---
 
 ### Technical Support
-#### [Rising Sun Pictures](https://rsp.com.au)
-###### March 2015 - August 2016 - 1 yr 6 mos
-
-### Technical Support Lead
 #### [Rising Sun Pictures](https://rsp.com.au)
 ###### March 2015 - August 2016 - 1 yr 6 mos
 
