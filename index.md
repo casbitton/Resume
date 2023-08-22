@@ -4,7 +4,7 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), Agile Ways of Working, DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation.
+I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), Agile Ways of Working, DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation.
 
 ### Contact
 - Email: [casbitton@gmail.com](mailto:casbitton@gmail.com)
@@ -36,6 +36,49 @@ I'm a highly motivated Technical Lead who loves a good BBQ, Great local [Beer](h
 ---
 
 # Experience
+
+### IT Manager
+#### [Fivecast](https://www.fivecast.com)
+###### Oct 2022 - Present
+
+As the IT Manager at Fivecast, I hold a critical position in overseeing and managing various aspects of the company's technology infrastructure and services. My role encompasses building and maintaining relationships with service providers, designing and scoping new work packages, and ensuring the alignment of ongoing activities with the business's needs. I am dedicated to enhancing internal IT processes and procedures, with a focus on automation to optimize efficiency. Effectively triaging and addressing IT support requests from Fivecast staff members, I leverage managed service providers as needed to ensure seamless operations.
+
+A key responsibility I hold is managing the ongoing patching process for applications and operating systems, responding promptly to vulnerability alerts and managing incidents to uphold robust security measures. Additionally, I oversee hardware suppliers, managing inventory and coordinating re-imaging and repairs to guarantee optimal functionality. I actively contribute to Fivecast's information security program by serving as a system/risk owner for a subset of enterprise applications, thereby reinforcing the organization's security posture.
+
+Furthermore, my role involves contributing to the technical solution design for enterprise applications and integrations, recommending suitable products and services to align with the evolving business needs. I consistently identify opportunities for improvement and provide strategic input into the IT roadmap, ensuring that the company's technology infrastructure evolves in harmony with its overarching business goals.
+
+*Key Responsibilities:*
+
+- Manage relationships with service providers, design and scope new work packages, and oversee ongoing activities while reviewing outputs.
+- Lead the maturation of internal IT processes and procedures, with a focus on optimizing user onboarding, change management, and periodic access reviews through automation.
+- Efficiently triage and address IT support requests from Fivecast staff members, taking direct action or delegating tasks to managed service providers as required.
+- Oversee the ongoing patching process for applications and operating systems, promptly responding to vulnerability alerts and managing incidents as necessary.
+- Manage hardware suppliers, including inventory management and coordination of re-imaging and repairs for seamless functionality.
+- Actively contribute to Fivecast's information security program by serving as a system/risk owner for select enterprise applications, contributing to an enhanced security posture.
+- Provide insights into technical solution design for enterprise applications and integrations, recommending products and services that align with business needs.
+- Consistently identify opportunities for improvement and provide strategic input into the IT roadmap to drive alignment with business objectives.
+
+*Technical Proficiencies:*
+
+- Microsoft Azure: Azure Active Directory, Azure Sentinel, Azure Security Center
+- Atlassian Products: Bitbucket, Jira, Confluence, Opsgenie, Statuspage
+- Fortinet: FortiAnalyzer, FortiGate, FortiManager, FortiAP
+- Other Tools: Apple Business Manager, Dashlane, HubSpot, Jamf, JetBrains, Microsoft 365 (Sharepoint, OneDrive, Teams, Outlook), Slack, Vimeo, KnowBe4, CodeTwo, CloudAlly, Cloud RADIUS - SecureW2
+
+*High-Level Strategy:*
+
+- Drive the business forward with effective tools and streamlined IT processes.
+- Ensure rigorous compliance with the information security program for enterprise systems.
+- Implement self-service tooling to automate and streamline support processes.
+- Address root-cause issues proactively to minimize ongoing support demands.
+- Collaborate with managed service providers to deliver scalable solutions.
+
+*Business-as-Usual / Ongoing Tasks:*
+
+- Provide enterprise IT support for all Fivecast staff members.
+- Manage hardware procurement, optimizing inventory management.
+- Lead security incident response activities to uphold robust cybersecurity.
+- Oversee and manage relationships with IT service providers.
 
 ### Technical Lead
 #### [Datacom](https://datacom.com)
