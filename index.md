@@ -13,12 +13,13 @@ I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https
 
 ---
 
-### Personal Career Milestones
+### Highlights from My Career Journey
 
-- Contribute towards the successful ongoing implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across a wide range of industries, to leverage AI and Automation to further reduce the complexity of managed IT platforms.
-- Teach, Lead and help staff navigate the depths of complex and high stakes environments with an amazing team at [5G Networks](https://5gnetworks.com.au)!
-- Work day and night alongside the amazing Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver incredible Visual Effects for many [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
-- Manage, build and grow [games.on.net](http://games.on.net), Australia’s largest national games network for [Internode](http://www.internode.on.net) and [iiNet](https://www.iinet.net.au).
+- Revamped IT processes and bolstered cybersecurity at [Fivecast](https://www.fivecast.com) by fostering automation, strategic vendor partnerships, and proactive management.
+- Played a pivotal role in the ongoing successful implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across diverse industries. Leveraged AI and Automation to streamline managed IT platforms and reduce complexity.
+- Guided and led a remarkable team at [5G Networks](https://5gnetworks.com.au), facilitating their navigation through intricate and high-stakes environments.
+- Collaborated tirelessly with the exceptional Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver awe-inspiring Visual Effects for numerous [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
+- Orchestrated the management, construction, and expansion of [games.on.net](http://games.on.net), the largest national games network in Australia. Aligned efforts with [Internode](http://www.internode.on.net) and [iiNet](https://www.iinet.net.au) to drive its growth.
 
 ---
 
@@ -85,30 +86,30 @@ Furthermore, my role involves contributing to the technical solution design for 
 ###### Apr 2022 - Sep 2022 - 6 mos
 ###### Total tenure: 1 year 11 months
 
-> At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this ever-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years’ experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
+> At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this ever-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years’ experience in technology, we have grown to be one of Australasia’s leading locally owned technology companies.
 
-In this role I provide leadership and direction to the team. I work closely with senior leaders to proactively contribute to the success of the organisation and our automation initiatives. I advertise the importance of automation and enhance the culture of automation.
+As the Technical Lead at Datacom, I was dedicated to ensuring the continued success of the team and contributing to Datacom's reputation as a pioneering technology leader.
 
-As a Technical Lead for Datacom I am dedicated to the success of the team and the following responsibilities:
+In this role I provided dynamic leadership and strategic direction to a cross-functional team while collaborating closely with senior executives to drive organisational success and spearhead automation initiatives. My role revolves around advocating the significance of automation and fostering a culture of innovation within the organisation.
 
-- Providing input to planning future computer requirements, capacity planning and the formulation of computing standards and guidelines.
-- Investigating available hardware and/or software and recommending appropriate acquisitions.
-- Establishing and maintaining Operational Excellence.
-- Provide expert advice and guidance to other technology teams and business stakeholders to deliver on both short and long-term goals of Datacom.
+**Key Accomplishments:**
+- Led the planning of future computing requirements, resulting in improved capacity planning and the establishment of robust computing standards and guidelines.
+- Conducted comprehensive evaluations of available hardware and software solutions, resulting in strategic acquisitions that enhanced team productivity and performance.
+- Established and sustained a culture of Operational Excellence, driving a proactive and collaborative environment that streamlined processes and increased efficiency.
+- Delivered expert insights and guidance to various technology teams and business stakeholders, aligning short and long-term objectives to advance Datacom's mission.
 
-#### Sectors
+**Sectors:**
 - Corporates
 - Education
 - Government
 - Healthcare
 
-#### Key Focus
+**Key Focus Areas:**
 - Artificial Intelligence for IT Operations (AIOps)
-
 - Platform Engineering
-  - Design, build, and delivery
-  - Platform management
-  - Platform strategy
+  - Holistic design, seamless build, and efficient delivery of cutting-edge platforms
+  - Strategic platform management to ensure optimal performance and scalability
+  - Development and execution of platform strategies that drive innovation and competitive advantage
 
 ### Senior Systems Engineer
 #### [Datacom](https://datacom.com)
@@ -147,58 +148,31 @@ Working as a Senior Systems Engineer at Datacom provided me with a fantastic opp
 #### [5G Networks](https://www.5gnetworks.com.au)
 ###### May 2018 – November 2020 - 2 yr 7 mos
 
-> 5G Networks is a licenced telecommunications carrier operating across Australia. Our mission is to be the partner of choice for unifying a seamless digital experience for our customers across data connectivity, cloud and data centre services, all underpinned by our expert managed services.
+> Collaborative and Proactive Senior Support Engineer specialising in Windows support, delivering exceptional service to a prominent Australian bank and offering technical expertise to 5G Networks staff and clients. Adept at identifying and resolving senior-level faults, documenting projects, and contributing to the expansion of future products and initiatives.
 
-Specialising in Windows support, I provide professional services to one of the largest credit unions in Australia. I also provide additional technical support to 5G Networks staff, teams and clients covering a vast range of technical platforms.
+#### Key Achievements and Responsibilities:
 
-In this role I'm continuously delivering the following:
+- Led a team of 7 engineers, providing 24/7 support for two datacentre locations encompassing 70+ physical servers and 700+ virtual servers, as well as 42 remote sites.
+- Orchestrated daily operations and services in the datacentre environment, ensuring seamless hardware, software, and license management.
+- Championed adherence to Client and 5GN methodologies, standards, processes, and procedures while liaising with external vendors for timely issue resolution.
+- Maintained meticulous documentation and reporting in alignment with contractual obligations.
+- Elevated the technical capacity of 5GN and Client staff by offering 3rd-level support across various technologies.
+- Spearheaded projects and Business as Usual (BAU) activities, streamlining processes and suggesting improvements to the organisation's ecosystem.
+- Demonstrated expertise across Microsoft 365, Microsoft Azure, Microsoft Exchange Server (2010-2019), Microsoft System Center Configuration Manager, and multiple versions of Windows Server.
+- Utilised PowerShell scripting to automate tasks, increasing operational efficiency.
+- Proficiently managed VMware vSphere and ESXi environments, optimising virtualisation resources.
+- Exhibited competence in web security with Forcepoint Cloud Security, conducting threat analyses, overseeing vulnerability management with Qualys, and implementing effective remediation strategies.
+- Held certifications including Fortinet NSE 1, 2, and 3 for Network Security Associate, Cisco HyperFlex for Systems Engineers, and New Relic Certified Performance Pro.
 
-- Exceptional customer service
-- Senior level fault identification, mitigation and resolution
-- Documenting customer projects
-- Assist to scope, expand and deliver future products and projects
+#### Skill Highlights:
 
-I have developed a laser focus which allows me to work proactively and autonomously, while maintaining a high level of communication with colleagues. My keen analytical skills allow me to learn fast, grow and become the raft when agile travels over the waterfall. It's great to collaborate with the team (or solo) and client to develop and deploy solutions which last.
+- Windows Server Management: Windows Server 2003-2019, Microsoft Exchange Server
+- Cloud Expertise: Microsoft Azure, Microsoft 365, VMware vSphere
+- Scripting: PowerShell
+- Security Proficiency: Forcepoint Cloud Security, Qualys, Threat Analysis, Vulnerability Management
+- Collaboration and Leadership: Led a team of 7 engineers, contributed to process enhancements, and communicated effectively with colleagues and clients.
 
-#### Primary responsibilities:
-
-- As a senior engineer within a team of 7, I work to deliver around the clock support for:
-  - Two Datacentre Locations
-    - 70+ Physical Servers
-    - 700+ Virtual Servers
-  - 42 Sites
-- Daily Datacentre operations and services
-- Hardware, Software and Licence maintenance and management
-- Comply with existing Client and 5GN methodologies, standards, processes & procedures
-- Liaise with external (Hardware/Software) vendors where required to ensure timely resolutions
-- Maintain current levels of documentation and reporting as per contractual obligations
-- Provide 3rd level support in variety of technologies to 5GN and Client Staff
-- Provide input, ideas and suggest improvements toward the betterment of 5GN processes, systems and environment
-- Handle projects and BAU
-
-#### Technical Duties across:
-
-- Microsoft 365
-- Microsoft Azure
-- Microsoft Exchange Server 2010, 2013, 2016, 2019, Online
-- Microsoft System Center Configuration Manager
-- Microsoft Windows 10
-- Microsoft Windows Server 2003, 2008, 2012, 2016, 2019
-- PowerShell
-- VMware vSphere and ESXi
-
-#### Web, Threat Analysis and Vulnerability Management
-
-- Forcepoint Cloud Security
-- Qualys
-- Vulnerability and Exposure Analysis
-- Vulnerability Remediation
-
-#### Misc
-
-- Fortinet NSE 1,2,3 - Network Security Associate
-- Cisco HyperFlex for Systems Engineers
-- New Relic Certified Performance Pro
+While contributing autonomously, I maintained a strong focus on collaboration and communication, fostering enduring solutions for both clients and the organisation. My skill set, leadership, and dedication positively impacted team dynamics and technical outcomes throughout my tenure at 5G Networks.
 
 ---
 
@@ -206,41 +180,33 @@ I have developed a laser focus which allows me to work proactively and autonomou
 #### [Peregrine Corporation](https://www.peregrine.com.au)
 ###### February 2017 – May 2018 - 1 yr 4 mos
 
-In this role I worked directly with Peregrine Corporation staff, departmental teams and external clients to support technology-based solutions. This role allows the business to flourish further by satisfying its business needs and challenges.
+As a dedicated Desktop and Application Support Specialist at Peregrine Corporation, I collaborated directly with internal teams, departmental units, and external clients to provide robust technology-based solutions. By delivering timely and effective support, I played a pivotal role in enhancing business operations and addressing critical challenges.
 
-I was responsible for the support of software, server and desktop infrastructure, within time frames and services levels. Support is provided to both local and remote staff. This support is provided over the phone, in person and ad hoc on-site visits when required. I participated within a 24/7 Operations environment.
+Key Contributions and Responsibilities:
+- Orchestrated the support of software, server, and desktop infrastructure, ensuring compliance with established timeframes and service level agreements. Catered to the needs of both local and remote staff, offering support via phone, in-person interactions, and on-site visits as required.
+- Thrived in a 24/7 operations environment, demonstrating a proactive approach in identifying and preemptively addressing potential issues, thereby ensuring seamless incident management and user satisfaction.
+- Leveraged ITIL principles to meticulously document and update all IT activities within the service management system (JIRA). This meticulous record-keeping contributed to the accuracy and efficiency of the support process.
+- Demonstrated expertise in Level 2 and 3 support, playing a critical role in resolving complex technical issues and optimising end-user experiences.
+- Excelled in designing and maintaining comprehensive technical documentation, which streamlined troubleshooting procedures and facilitated knowledge transfer within the team.
+- Took a hands-on role in the deployment and support of physical desktops and network infrastructure, further enhancing the organisation's technological capabilities.
+- Effectively communicated intricate technical concepts to both technical and non-technical stakeholders, showcasing strong interpersonal and communication skills.
+- Successfully participated in on-call rotations and after-hours support to ensure continuous system availability and minimal disruption to operations.
 
-ITIL heavily influences this environment. All IT activities are recorded and updated in the service management system (JIRA), in a timely and accurate manner. Issues are often proactively raised to ensure incidents are managed and effectively on behalf of end users.
+Notable Technologies and Achievements:
+- Proficiently managed Active Directory, demonstrating mastery over Group Policy, Organisational Units, and Objects management.
+- Leveraged AirWatch for mobile device management, enhancing remote workforce efficiency and security.
+- Adeptly navigated Atlassian Software suite, including Jira, Confluence, Trello, and SourceTree, fostering streamlined collaboration and project management.
+- Provided AV support and administered Cisco Jabber and Cisco Unified Communications Manager to maintain efficient communication channels.
+- Supported seamless integration of Mac OS and iOS devices, ensuring a diverse range of user platforms.
+- Contributed to the successful implementation of Microsoft Azure and Microsoft Exchange 2013, including hybrid environments and Office 365 integration.
+- Exhibited proficiency in Microsoft System Center Configuration Manager (SCCM) for efficient software deployment and management.
+- Managed network administration tasks and demonstrated a sound understanding of Windows Server operating systems.
+- Played a crucial role in the support of a substantial Windows 10 rollout encompassing over 350 devices.
+- Facilitated a seamless transition during a large-scale Windows XP deployment involving more than 500 devices.
+- Showcased in-depth knowledge of Windows Desktop administration across various versions, including Windows XP, 7, and 10.
+- Acquired hands-on experience with storage, cloud services, backup, and replication technologies, including CommVault solutions.
 
-The core components of this role that I excel in are:
-
-- Designing and maintaining technical documentation
-- Exposure to a large variety of software
-- Level 2 and 3 support
-- On-call and after-hours support
-- Physical Desktop and Network Support and Deployment
-- Strong Communication skills
-
-As a member of the technical support team I have demonstrated commercial experience in the following technologies:
-
-- Active directory: Knowledge of Group Policy, Organisational Units, Objects
-- AirWatch
-- Atlassian Software: Jira, Confluence, Trello, SourceTree
-- AV Support
-- Cisco Jabber
-- Cisco Unified Communications Manager
-- Mac OS and iOS Support
-- Microsoft Azure
-- Microsoft Exchange 2013 - Hybrid, Outlook 365
-- Microsoft System Center Configuration Manager (SCCM)
-- Network Administration
-- Office 365
-- PowerShell
-- Storage, Cloud Services, Backup and Replication technologies (CommVault)
-- Supporting a large Windows 10 roll-out, 350+ devices
-- Supporting a large Windows XP deployment, 500+ devices
-- Windows Desktop administration (Windows XP, 7, 10)
-- Windows Server 2008 R2, 2012, 2016
+My tenure as a Desktop and Application Support Specialist at Peregrine Corporation was marked by a commitment to excellence and a proactive approach to enhancing technological efficiency and user satisfaction.
 
 ---
 
@@ -248,23 +214,16 @@ As a member of the technical support team I have demonstrated commercial experie
 #### [Mighty Kingdom](https://www.mightykingdom.com)
 ###### August 2016 - February 2017 - 7 mos
 
-*A brief shift from IT to Game Development.*
+During my tenure at Mighty Kingdom, a prominent software development powerhouse specialising in cross-platform gaming experiences, I played a pivotal role in ensuring the delivery of top-notch entertainment products to a global audience.
 
-Mighty Kingdom are a premier software development team in Adelaide, the team is building exciting new entertainment products for a global audience.
+#### Achievements and Responsibilities:
+- Spearheaded Test Planning, Comprehensive Functional Testing, and Agile Issue Management, enhancing product quality across the development lifecycle.
+- Orchestrated Concurrent QA Testing and provided critical feedback across all ongoing projects during rapid-paced development sprints, contributing to the timely identification and resolution of potential issues.
+- Expertly addressed customer and client concerns by meticulously Reviewing, Replicating, and Collaboratively Resolving reported issues, bolstering client satisfaction and product reliability.
+- Architected a cutting-edge development pipeline, streamlining processes from code commit to device deployment. This robust platform, compatible with iOS and Android, facilitated multi-platform development opportunities.
+- Leveraged industry-leading tools such as Fastlane, GitLab, Jenkins, and Unity Cloud Build to establish a seamless continuous integration pipeline for Unity-based products, optimising build automation and deployment efficiency.
 
-#### Primary responsibilities:
-- Test Planning, Functional Testing, Triage and Issue Management
-- Concurrent QA testing and critical feedback across all active projects during development sprints
-- Reviewing, replicating and assisting to resolve reported issues from Customers and Clients
-
-From code commit to device we established a world-class development pipeline to rocket our projects along. This platform targeted iOS and Android and provided multi-platform opportunities.
-
-This continuous integration pipeline for products built with the game engine Unity utilising:
-
-- Fastlane
-- GitLab
-- Jenkins
-- Unity Cloud Build
+My role as Quality Assurance Lead at Mighty Kingdom not only underscored my dedication to impeccable product quality but also showcased my adaptability in transitioning from IT to the dynamic world of game development.
 
 ---
 
@@ -272,108 +231,64 @@ This continuous integration pipeline for products built with the game engine Uni
 #### [Rising Sun Pictures](https://rsp.com.au)
 ###### March 2015 - August 2016 - 1 yr 6 mos
 
-> Over the past two decades, Rising Sun Pictures (RSP) has been delighting and inspiring audiences worldwide, by creating some of Hollywood’s most memorable screen moments.
+### Technical Support Lead
+#### [Rising Sun Pictures](https://rsp.com.au)
+###### March 2015 - August 2016 - 1 yr 6 mos
 
-At Rising Sun Pictures, I was responsible for Technical support to all staff, critical infrastructure and corporate partners.
+[Rising Sun Pictures (RSP)](https://rsp.com.au) has a rich history of delivering captivating cinematic experiences, contributing to some of Hollywood's most iconic moments. As part of the technical support team at RSP, I played a pivotal role in ensuring seamless operations, infrastructure stability, and superior user experiences.
 
-#### Primary responsibilities
-- Unix Administration
+#### Key Accomplishments and Responsibilities:
 
-Desktop Support
-- CentOS Desktop Administration
-- Application Patching/Maintenance for 100+ Applications across the business for all departments.
-  - Windows/Linux/Mac OS
-  - Automation and Package Management
+- **Unix and CentOS Administration:** Spearheaded Unix and CentOS administration, optimising system performance and ensuring a secure computing environment for the entire organisation.
 
-Server Support
-- CentOS Administration
+- **Comprehensive Desktop Support:** Managed CentOS desktop administration, overseeing application patching and maintenance for a diverse suite of 100+ applications spanning Windows, Linux, and macOS platforms. Introduced automation and package management strategies to streamline processes and enhance efficiency.
 
-- Monitored and maintained Visual Effects Render Farm hardware
-  - 500+ Dell and HP servers located on-site and off-site at Data centres
-  - DNS / DHCP Administration
-  - Environmental monitoring, Temperature and Water
-  - Hardware Deployments
-  - Nagios / Prometheus / Cacti
-  
-- Ubiquiti Network Management
-  - Wifi Deployment
-  - Configuration
+- **Robust Server Support:** Led CentOS server administration, maintaining a robust server environment crucial for production workflows. Oversaw a high-performance Visual Effects Render Farm comprising 500+ Dell and HP servers situated both on-site and at remote data centers.
 
-Tape Library and Storage Management
-- Backup Infrastructure
-- SAN
+- **Render Farm Maintenance:** Monitored and sustained the Visual Effects Render Farm hardware, orchestrating essential tasks such as hardware deployments, DNS/DHCP administration, and environmental monitoring encompassing temperature and water levels. Employed monitoring tools including Nagios, Prometheus, and Cacti to ensure optimal performance.
+
+- **Ubiquiti Network Management:** Successfully deployed and configured Ubiquiti networks, providing reliable and high-speed Wi-Fi connectivity throughout the facility. Managed network configurations to optimise performance and security.
+
+- **Tape Library and Storage Expertise:** Took charge of the backup infrastructure and storage management, guaranteeing data integrity and disaster recovery capabilities. Proficiently managed the SAN (Storage Area Network) to safeguard critical assets.
+
+My tenure at RSP was marked by unwavering dedication to technical excellence, problem-solving prowess, and collaboration across departments to foster a seamless technological ecosystem. My contributions not only upheld operational continuity but also played a pivotal role in elevating the quality of cinematic creations that have become synonymous with Rising Sun Pictures.
 
 ---
 
-### Content Administrator
+### Content Administrator & Community Manager
 #### [Internode](https://www.internode.on.net) + [iiNet](https://www.iinet.net.au)
-###### May 2013 - March 2015 - 1 yr 11 mos
-###### Total Tenure: 5 year 3 months
+###### January 2010 - March 2015
+###### Total Tenure: 5 years 3 months
 
+I had a fantastic time at Internode! I played a pivotal role in driving the growth and success of Internode and iiNet by spearheading content administration and community management efforts.
 
-Expanding on my previous role as a Community Manger for Internode, I was able to continue my work on the games.on.net product to deliver Video Game and Entertainment content to the expanding iiNet customer base. This saw the growth and development of the iiNet Freezone. Many additional Freezone partners joined the ranks we expanded our offering of ultra fast download services to customers!
+**Responsibilities and Achievements:**
 
-#### Responsibilities
+- **Digital Marketing and Community Engagement:** Orchestrated strategic digital marketing campaigns to bolster brand visibility and foster community engagement. Developed and executed multi-media content, including web, text, and video, which cultivated a dynamic online community with over 180,000 members.
 
-- Digital Marketing and Communications
-- Infrastructure Manager and Systems administrator for Virtual Data centres across Australia
-- Maintain [http://mirror.internode.on.net](http://mirror.internode.on.net/) , home to Australia’s best mirror for Linux distributions. Automated and operating to this day
-- Policy Governance, Risk Management, Security and Compliance
-- Primary Stakeholder of games.on.net for iiNet
-- Support the incredible Internode Content Delivery Network and its clients (several national and public broadcasters)
-    - Maintain Streaming Radio relay for to 150+ global stations
+- **Infrastructure Management and Maintenance:** Assumed the responsibility of managing virtual data centers across Australia. Oversaw the maintenance of http://mirror.internode.on.net, a premier repository for Linux distributions, ensuring seamless automated operations.
 
-Relationship building, Unmetered Quota, local caching and successful infrastructure deployments within Australia.
+- **Partnerships and Stakeholder Management:** Served as the primary point of contact for games.on.net under iiNet, cultivating partnerships with prominent entities such as ABC iView, Apple iTunes, Microsoft Xbox, Valve Software, Riot Games, and Electronic Arts. Expanded the iiNet Freezone, enhancing ultra-fast download services through new partnerships.
 
-A few examples are:
+- **Streaming and Content Delivery:** Managed the Internode Content Delivery Network, supporting national and public broadcasters. Oversaw the maintenance of streaming radio relays, expanding the reach to 150+ global stations.
 
-- ABC,  iView
-- Apple, iTunes
-- Microsoft, Xbox
-- Valve Software, Steam
-- Riot Games, League of Legends
-- Electronic Arts, Battlefield
+- **Policy Governance and Risk Management:** Demonstrated expertise in policy governance, risk mitigation, security, and compliance, ensuring the integrity and security of services.
 
+- **Server Infrastructure and Deployment:** Administered Windows and Ubuntu systems, overseeing physical hardware and virtual deployments across Australia. Collaborated with industry leaders to provide dedicated game server infrastructure, content, and events for Australian gamers.
 
-### Community Manager
-#### [Internode](https://www.internode.on.net)
-###### January 2010 – May 2013 - 3 yrs 5 mos
+- **Market Research and Strategy:** Conducted comprehensive market research to inform growth strategies for the Internode and games.on.net brands. Developed and executed campaigns that resonated with the gaming audience, fostering brand loyalty.
 
-As the Community Manager of games.on.net, it fell to me to do the work of a thousand men. I was busy keeping everything behind the scenes running smoothly. This was a passion project and I'm incredibly proud of what our fantastic team accomplished during this time.
+**Key Accomplishments:**
 
-Games.on.net was a 100% Australian site dedicated to serving all of your gaming needs. With three main pillars – a high-quality editorial site, a thriving community and one of Australia’s largest free public game server farms – this truly was the ultimate Aussie gaming destination.
+- Orchestrated strategic partnerships, including with major players like ABC, Apple, Microsoft, Valve Software, and Riot Games, to expand the iiNet Freezone's offerings and enhance customer experiences.
 
-The Internode Games Network (games.on.net) was established in early 2002 with a single goal; to provide Internode’s customers with the best online gaming experience possible. This led to the development of a large game server farm, hosting the latest and greatest PC games free of charge for any gamer to come and play on.
+- Transformed games.on.net into a premier Australian gaming hub with an active community boasting over 180,000 members and a social media presence of 30,000+ Facebook Likes.
 
-#### Key responsibilities and milestones
+- Ensured the continuous operation of http://mirror.internode.on.net, a pivotal hub for Linux distributions, facilitating streamlined access for users.
 
-- Conduct market research and build strategy plans to grow the Internode and games.on.net brands in Australia
-- Create campaigns and content based on web, text, video, and other media to engage and grow the player base
-- Drive explosive growth for key social and community channels. 30,000+ Facebook Likes, 180,000+ Forum members
-- Evaluate and advocate programs and campaigns that build brand passion
-- Manage marketing and infrastructure relationships with global partners
-- Over 700,000 unique website visitors each month
-- Windows and Ubuntu administration, physical hardware and virtual deployments across Australia
-- Work with leading brands and partners to deliver dedicated game server infrastructure, file content, competitions and events to thousands of Australians
+- Managed streaming radio relay operations, broadening the reach to more than 150 global stations, contributing to a vibrant gaming ecosystem.
 
----
-
-### Operator
-#### [Hostworks](https://www.hostworks.com.au)
-###### November 2007 - January 2010 - 2 yrs 3 mos
-
-As a core member of the Operations team at Hostworks I specialised in providing world-class critical application management and hardware support for leading companies across digital media.
-
-Working with the Operations team at Hostworks has expanded my knowledge, understanding and importance of providing real time support to 1000s of physical and virtual servers. Primarily based in a secure Adelaide data centre, this enabled me to provide rapid support for critical hardware and application issues that customers encounter.
-
-My role was responsible for the following duties:
-
-- Data Management
-- Monitoring customer equipment and services with Microsoft System Center Operations Manager
-- Troubleshooting website and network connectivity issues
-- Windows Server administration
-- Working to customers service level agreements
-- Working with and creating technical documentation
+- Effectively balanced responsibilities in digital marketing, infrastructure management, community engagement, and partnerships, shaping the growth and achievements of both Internode and iiNet during this transformative period.
 
 ---
 
