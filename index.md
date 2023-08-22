@@ -15,7 +15,7 @@ I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https
 
 ### Highlights from My Career Journey
 
-- Revamped IT processes and bolstered cybersecurity at [Fivecast](https://www.fivecast.com) by fostering automation, strategic vendor partnerships, and proactive management.
+- Revamped global IT processes and bolstered cybersecurity at [Fivecast](https://www.fivecast.com) by fostering automation, strategic vendor partnerships, and proactive management.
 - Played a pivotal role in the ongoing successful implementation and deployment of [ScienceLogic](https://sciencelogic.com) at [Datacom](https://datacom.com) across diverse industries. Leveraged AI and Automation to streamline managed IT platforms and reduce complexity.
 - Guided and led a remarkable team at [5G Networks](https://5gnetworks.com.au), facilitating their navigation through intricate and high-stakes environments.
 - Collaborated tirelessly with the exceptional Technology Department at [Rising Sun Pictures](https://rsp.com.au) to deliver awe-inspiring Visual Effects for numerous [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
@@ -42,11 +42,13 @@ I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https
 #### [Fivecast](https://www.fivecast.com)
 ###### Oct 2022 - Present
 
-As the IT Manager at Fivecast, I hold a critical position in overseeing and managing various aspects of the company's technology infrastructure and services. My role encompasses building and maintaining relationships with service providers, designing and scoping new work packages, and ensuring the alignment of ongoing activities with the business's needs. I am dedicated to enhancing internal IT processes and procedures, with a focus on automation to optimise efficiency. Effectively triaging and addressing IT support requests from Fivecast staff members, I leverage managed service providers as needed to ensure seamless operations.
+As the IT Manager at Fivecast, I hold a critical global position in overseeing and managing various aspects of the company's technology infrastructure and services. My role encompasses building and maintaining relationships with service providers, designing and scoping new work packages, and ensuring the alignment of ongoing activities with the business's needs. I am dedicated to enhancing internal IT processes and procedures, with a focus on automation to optimise efficiency. Effectively triaging and addressing IT support requests from Fivecast staff members, I leverage managed service providers as needed to ensure seamless operations.
 
-A key responsibility I hold is managing the ongoing patching process for applications and operating systems, responding promptly to vulnerability alerts and managing incidents to uphold robust security measures. Additionally, I oversee hardware suppliers, managing inventory and coordinating re-imaging and repairs to guarantee optimal functionality. I actively contribute to Fivecast's information security program by serving as a system/risk owner for a subset of enterprise applications, thereby reinforcing the organization's security posture.
+My role involves contributing to the technical solution design for enterprise applications and integrations, recommending suitable products and services to align with the evolving business needs. I consistently identify opportunities for improvement and provide strategic input into the global IT roadmap, ensuring that the company's technology infrastructure evolves in harmony with its overarching business goals.
 
-Furthermore, my role involves contributing to the technical solution design for enterprise applications and integrations, recommending suitable products and services to align with the evolving business needs. I consistently identify opportunities for improvement and provide strategic input into the IT roadmap, ensuring that the company's technology infrastructure evolves in harmony with its overarching business goals.
+A key responsibility I hold is managing the ongoing patching process for applications, infrasrtucture and operating systems, responding promptly to vulnerability alerts and managing incidents to uphold robust security measures. Additionally, I oversee hardware suppliers, managing inventory and coordinating re-imaging and repairs to guarantee optimal functionality. I actively contribute to Fivecast's information security program by serving as a system/risk owner for all Enterprise IT systems, thereby reinforcing the organisation's security posture.
+
+Furthermore, 
 
 *Key Responsibilities:*
 
@@ -64,12 +66,12 @@ Furthermore, my role involves contributing to the technical solution design for 
 - Microsoft Azure: Azure Active Directory, Azure Sentinel, Azure Security Center
 - Atlassian Products: Bitbucket, Jira, Confluence, Opsgenie, Statuspage
 - Fortinet: FortiAnalyzer, FortiGate, FortiManager, FortiAP
-- Other Tools: Apple Business Manager, Dashlane, HubSpot, Jamf, JetBrains, Microsoft 365 (Sharepoint, OneDrive, Teams, Outlook), Slack, Vimeo, KnowBe4, CodeTwo, CloudAlly, Cloud RADIUS - SecureW2
+- Other Tools: Apple Business Manager, Dashlane, HubSpot, Jamf, JetBrains, Microsoft 365 (Sharepoint, OneDrive, Teams, Outlook), Slack, Vimeo, KnowBe4, CodeTwo, CloudAlly, SecureW2 Cloud RADIUS 
 
 *High-Level Strategy:*
 
 - Drive the business forward with effective tools and streamlined IT processes.
-- Ensure rigorous compliance with the information security program for enterprise systems.
+- Ensure rigorous compliance with the information security program for enterprise IT systems.
 - Implement self-service tooling to automate and streamline support processes.
 - Address root-cause issues proactively to minimise ongoing support demands.
 - Collaborate with managed service providers to deliver scalable solutions.
