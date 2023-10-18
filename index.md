@@ -290,6 +290,45 @@ Key Accomplishments:
 
 ---
 
+### Data Center Operator
+#### [Hostworks](https://www.hostworks.com.au)
+###### November 2007 - January 2010 - 2 yrs 3 mos
+
+At Hostworks, I played a pivotal role within the Operations team, dedicating my expertise to offering unparalleled critical application management and hardware support to top-tier digital media companies.
+
+My tenure with the Operations team deepened my grasp on the intricacies of delivering real-time support for an expansive infrastructure encompassing thousands of physical and virtual servers. Based in a state-of-the-art, secure Adelaide data centre, I was positioned to promptly address and resolve critical hardware and application issues faced by our clientele.
+
+Key Responsibilities and Accomplishments:
+
+- **Data Management:**
+  - Safeguarded and handled vast quantities of data by implementing and managing tape and disk storage solutions.
+  - Periodically backed up essential data, ensuring business continuity and minimising potential data loss risks.
+
+- **Monitoring & Support:**
+  - Vigilantly monitored customer equipment and services to preemptively identify anomalies and potential threats.
+  - Delivered "smart hands" support to remote customers, serving as an on-site extension for their technical needs.
+  
+- **Network Management:**
+  - Expertly diagnosed and remedied network connectivity disruptions, ensuring minimal downtime and maintaining seamless business operations for clients.
+
+- **Systems Administration:**
+  - Administered, maintained, and optimised both Windows and Unix-based systems to assure high availability and performance.
+  - Regularly updated and patched systems in compliance with best security practices.
+  
+- **Service Level Management:**
+  - Collaborated closely with clients to understand and meet their specific service level agreements (SLAs), guaranteeing consistent service quality and uptime.
+
+- **Technical Documentation:**
+  - Created and maintained comprehensive technical documentation that facilitated smooth onboarding of new team members and served as a critical reference for complex procedures.
+  
+- **Hardware Expertise:**
+  - Provided hands-on hardware support for a wide range of server brands, including HP, Dell, IBM, and Sun, ensuring optimised performance and longevity.
+  - Quickly diagnosed hardware issues and executed replacements or repairs as needed.
+
+This multifaceted role enhanced my technical acumen and solidified my dedication to ensuring the utmost reliability and performance of data center operations.
+
+---
+
 ## References
 
 #### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
