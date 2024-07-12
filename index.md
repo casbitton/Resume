@@ -23,13 +23,6 @@ I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https
 
 ---
 
-#### Clearance
-
-- WWCC
-- NV1
-
----
-
 ### Core Skills
 
 [ Atlassian ] [ Azure ] [ DevOps ] [ Linux ] [ PowerShell ] [ Security ] [ Veeam ] [ VMware ] [ Windows ]
