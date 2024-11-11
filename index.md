@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Hello! I’m **Cas** – an IT Manager who pairs a drive for excellence in technology with a love for BBQ and local brews.
+Hello, my name is **Cas**!
 
-### Professional Summary  
+I'm a highly motivated IT Manager who loves a good BBQ, Great local [Beer](https://www.littlebang.com.au), Agile Ways of Working, DevOps and is truly invested in technology. I'm looking to thrive as part of your organisation.
+
 With two decades of hands-on IT experience, I’ve honed my skills across a variety of roles, building a foundation that drives impactful, client-centric solutions. My expertise spans automation, infrastructure management, and DevOps, especially within high-stakes sectors like government, finance, and critical infrastructure. Known for a hands-on approach, I focus on creating resilient, high-performance environments that ensure secure, efficient systems.
 
 A practical innovator and mentor, I prioritise workflows that optimise operations and create lasting value. My approach blends agile methodologies with a results-driven mindset, consistently delivering solutions that enhance system performance and operational resilience.
