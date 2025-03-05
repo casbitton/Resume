@@ -33,7 +33,7 @@ A practical innovator and mentor, I focus on optimising workflows, automating pr
 
 ### Professional Experience
 
-#### **Senior Solutions Architect**  
+#### **Senior Solution Architect**  
 **Duco**  
 Dec 2024 – Present
 
