@@ -4,11 +4,11 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I’m an **experienced IT Manager, Technical Leader, and Architect** with a love for **BBQ, coffee, Agile ways of working, and DevOps**. Driven by a deep commitment to technology, I bring a **hands-on, results-focused approach** to help organisations streamline operations and achieve their goals.
+I’m an experienced IT Manager, Technical Leader, and Architect with a love for BBQ, coffee, Agile ways of working, and DevOps. Driven by a deep commitment to technology, I bring a hands-on, results-focused approach to help organisations streamline operations and achieve their goals.
 
-With **20 years of hands-on IT experience**, I’ve developed expertise in **automation, infrastructure management, and DevOps**, particularly within **defence, government, finance, and critical infrastructure** sectors. I specialise in **designing resilient, high-performance systems** that are **secure, scalable, and efficient**.
+With 20 years of hands-on IT experience, I’ve developed expertise in automation, infrastructure management, and DevOps, particularly within defence, government, finance, and critical infrastructure sectors. I specialise in designing resilient, high-performance systems that are secure, scalable, and efficient.
 
-A **practical innovator and mentor**, I focus on **optimising workflows, automating processes, and enhancing operational resilience**. By blending **Agile methodologies** with a **strategic, results-driven mindset**, I consistently deliver **client-centric solutions** that drive long-term value.
+A practical innovator and mentor, I focus on optimising workflows, automating processes, and enhancing operational resilience. By blending Agile methodologies with a strategic, results-driven mindset, I consistently deliver client-centric solutions that drive long-term value.
 
 ### Contact Me
 - Email: [casbitton@gmail.com](mailto:casbitton@gmail.com)
@@ -35,13 +35,13 @@ A **practical innovator and mentor**, I focus on **optimising workflows, automat
 
 #### **Senior Solutions Architect**  
 **Duco**  
-**Dec 2024 – Present**  
+Dec 2024 – Present
 
-- Provide **consulting services** for **managed IT services, cyber security, and infrastructure management**, ensuring **secure, scalable, and high-performance** solutions.  
-- Develop and **optimise IT strategies** that align with business needs, driving **efficiency and operational resilience**.  
-- Oversee **cloud infrastructure, security frameworks, and automation initiatives**, leveraging technologies such as **Azure, AWS, VMware, and DevOps tools**.  
-- Collaborate with clients across **automotive & manufacturing, mining & resources, government & legal services, and healthcare sectors** to assess security risks, design **robust IT architectures**, and implement **best practices** in **cyber security** and **infrastructure management**.  
-- Lead technical teams, conduct **workshops and training**, and provide **strategic guidance** on IT modernisation.
+- Provide consulting services for managed IT services, cyber security, and infrastructure management, ensuring secure, scalable, and high-performance solutions.
+- Develop and optimise IT strategies that align with business needs, driving efficiency and operational resilience.
+- Oversee cloud infrastructure, security frameworks, and automation initiatives, leveraging technologies such as Azure, AWS, VMware, and DevOps tools.
+- Collaborate with clients across automotive & manufacturing, mining & resources, government & legal services, and healthcare sectors to assess security risks, design robust IT architectures, and implement best practices in cyber security and infrastructure management.  
+- Lead technical teams, conduct workshops and training, and provide strategic guidance on IT modernisation.
 
 ---
 
