@@ -4,11 +4,11 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I’m an enthusiastic IT Manager with a love for BBQ, quality local [beers](https://www.littlebang.com.au), Agile ways of working, and DevOps. With a genuine commitment to technology, I’m keen to bring my skills and passion to help your organisation succeed.
+I’m an **experienced IT Manager, Technical Leader, and Architect** with a love for **BBQ, coffee, Agile ways of working, and DevOps**. Driven by a deep commitment to technology, I bring a **hands-on, results-focused approach** to help organisations streamline operations and achieve their goals.
 
-With two decades of hands-on IT experience, I’ve honed my skills across a variety of roles, building a foundation that drives impactful, client-centric solutions. My expertise spans automation, infrastructure management, and DevOps, especially within high-stakes sectors like defence, government, finance, and critical infrastructure. Known for a hands-on approach, I focus on creating resilient, high-performance environments that ensure secure, efficient systems.
+With **20 years of hands-on IT experience**, I’ve developed expertise in **automation, infrastructure management, and DevOps**, particularly within **defence, government, finance, and critical infrastructure** sectors. I specialise in **designing resilient, high-performance systems** that are **secure, scalable, and efficient**.
 
-A practical innovator and mentor, I prioritise workflows that optimise operations and create lasting value. My approach blends agile methodologies with a results-driven mindset, consistently delivering solutions that enhance system performance and operational resilience.
+A **practical innovator and mentor**, I focus on **optimising workflows, automating processes, and enhancing operational resilience**. By blending **Agile methodologies** with a **strategic, results-driven mindset**, I consistently deliver **client-centric solutions** that drive long-term value.
 
 ### Contact Me
 - Email: [casbitton@gmail.com](mailto:casbitton@gmail.com)
