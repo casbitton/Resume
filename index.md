@@ -33,9 +33,21 @@ A practical innovator and mentor, I prioritise workflows that optimise operation
 
 ### Professional Experience
 
+#### **Senior Solutions Architect**  
+**Duco**  
+**Dec 2024 – Present**  
+
+- Provide **consulting services** for **managed IT services, cyber security, and infrastructure management**, ensuring **secure, scalable, and high-performance** solutions.  
+- Develop and **optimise IT strategies** that align with business needs, driving **efficiency and operational resilience**.  
+- Oversee **cloud infrastructure, security frameworks, and automation initiatives**, leveraging technologies such as **Azure, AWS, VMware, and DevOps tools**.  
+- Collaborate with clients across **automotive & manufacturing, mining & resources, government & legal services, and healthcare sectors** to assess security risks, design **robust IT architectures**, and implement **best practices** in **cyber security** and **infrastructure management**.  
+- Lead technical teams, conduct **workshops and training**, and provide **strategic guidance** on IT modernisation.
+
+---
+
 #### IT Manager  
 **Fivecast**  
-*Oct 2022 – Present*
+*Oct 2022 – Oct 2024*
 
 - Managed a global team as the primary technical architect for enterprise IT systems, designing and implementing infrastructure to support business objectives and evolving needs across regions.
 - Directed IT operations and service delivery, building strong relationships with service providers, overseeing hardware suppliers, and optimising internal IT workflows with a focus on automation.
