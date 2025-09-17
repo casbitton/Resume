@@ -33,9 +33,27 @@ A practical innovator and mentor, I focus on optimising workflows, automating pr
 
 ### Professional Experience
 
-#### **Senior Solution Architect**  
+#### Head of Technology  
+**Duco**
+*Jul 2025 – Present* 
+
+As Head of Technology, I lead Duco’s technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure. My focus is on scaling managed services, strengthening cybersecurity, and driving digital transformation through automation and modern platforms.  
+
+- **Team & Leadership**: Manage and mentor a growing engineering team, expanding Duco’s local capability with IT specialists to meet demand.  
+- **Client Engagement**: Partner with clients to understand business needs and deliver tailored solutions — from cybersecurity remediation to transformation roadmaps.  
+- **Next-Gen MSP**: Established Duco’s next-generation Managed Services Provider (MSP) model with NinjaOne and ServiceNow, enabling automation, orchestration, and scalable service delivery.  
+- **Cybersecurity & Partnerships**: Strengthened Duco’s security posture by integrating Arctic Wolf for 24/7 threat detection and enhancing strategic vendor partnerships with Fortinet and others.  
+- **Digital Transformation**: Drove enterprise platform adoption (ServiceNow, Veeam, Arctic Wolf) to modernise IT service delivery and accelerate process efficiency.  
+- **Business Growth**: Supported presales and commercial modelling, producing well-structured client proposals that secured major wins and positioned Duco as a trusted tech partner in SA.  
+
+**Key Achievements:**  
+- Promoted to Head of Technology in recognition of strong leadership, delivery outcomes, and strategic impact.  
+- Delivered measurable improvements in service scalability, cybersecurity maturity, and client satisfaction.  
+- Positioned Duco as a leading cybersecurity and managed services partner in South Australia through local talent, innovation, and vendor partnerships.
+
+#### Senior Solution Architec 
 **Duco**  
-Dec 2024 – Present
+*Dec 2024 – Jul 2025*
 
 - Provide consulting services for managed IT services, cyber security, and infrastructure management, ensuring secure, scalable, and high-performance solutions.
 - Develop and optimise IT strategies that align with business needs, driving efficiency and operational resilience.
