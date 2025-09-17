@@ -33,7 +33,7 @@ A practical innovator and mentor, I focus on optimising workflows, automating pr
 
 ### Professional Experience
 
-#### Head of Technology  
+#### Head of Technology
 **Duco**
 *Jul 2025 – Present* 
 
