@@ -51,7 +51,7 @@ As Head of Technology, I lead Duco’s technology strategy, engineering teams, a
 - Delivered measurable improvements in service scalability, cybersecurity maturity, and client satisfaction.  
 - Positioned Duco as a leading cybersecurity and managed services partner in South Australia through local talent, innovation, and vendor partnerships.
 
-#### Senior Solution Architec 
+#### Senior Solution Architect 
 **Duco**  
 *Dec 2024 – Jul 2025*
 
