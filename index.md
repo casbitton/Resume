@@ -35,6 +35,7 @@ A practical innovator and mentor, I focus on optimising workflows, automating pr
 
 #### Head of Technology
 **Duco**
+
 *Jul 2025 – Present* 
 
 As Head of Technology, I lead Duco’s technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure. My focus is on scaling managed services, strengthening cybersecurity, and driving digital transformation through automation and modern platforms.  
@@ -47,12 +48,13 @@ As Head of Technology, I lead Duco’s technology strategy, engineering teams, a
 - **Business Growth**: Supported presales and commercial modelling, producing well-structured client proposals that secured major wins and positioned Duco as a trusted tech partner in SA.  
 
 **Key Achievements:**  
-- Promoted to Head of Technology in recognition of strong leadership, delivery outcomes, and strategic impact.  
+- Promoted to Head of Technology in recognition of strong leadership, delivery outcomes, and strategic impact.
 - Delivered measurable improvements in service scalability, cybersecurity maturity, and client satisfaction.  
 - Positioned Duco as a leading cybersecurity and managed services partner in South Australia through local talent, innovation, and vendor partnerships.
 
-#### Senior Solution Architect 
-**Duco**  
+#### Senior Solution Architect
+**Duco**
+
 *Dec 2024 – Jul 2025*
 
 - Provide consulting services for managed IT services, cyber security, and infrastructure management, ensuring secure, scalable, and high-performance solutions.
