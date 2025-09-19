@@ -33,7 +33,8 @@ My expertise spans automation, infrastructure management, and DevOps, particular
 
 #### Head of Technology
 **Duco**
-*Jul 2025 – Present* As Head of Technology, I lead Duco’s technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure. My focus is on scaling managed services, strengthening cybersecurity, and driving digital transformation through automation and modern platforms.
+*Jul 2025 – Present*
+As Head of Technology, I lead Duco’s technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure. My focus is on scaling managed services, strengthening cybersecurity, and driving digital transformation through automation and modern platforms.
 
 - **Led and Mentored Teams**: I manage and mentor a growing engineering team, expanding Duco’s local capability with IT specialists to meet client demand and foster professional growth.
 - **Delivered Client-Centric Solutions**: I partner with clients to understand their business needs, delivering tailored solutions from cybersecurity remediation to comprehensive transformation roadmaps.
