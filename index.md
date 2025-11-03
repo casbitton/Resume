@@ -39,7 +39,7 @@ My approach is fundamentally practical: a practical innovator and mentor who bri
 
 ### Professional Experience
 
-### Head of Technology
+#### Head of Technology
 **Duco** | *Dec 2024 – Present*
 
 Promoted from Senior Solution Architect to Head of Technology (Jul 2025) within seven months, in recognition of strong leadership and real delivery against targets. I lead technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure—positioning Duco as a trusted partner in Australia's most regulated and high-stakes sectors.
@@ -81,8 +81,7 @@ Microsoft Azure (AD, Sentinel, Security Center, Intune), Microsoft 365 (E3/E5 Se
 
 ---
 
-### Technical Lead
-
+#### Technical Lead
 **Datacom** | *Nov 2020 – Sep 2022*
 
 As **Technical Lead**, the most senior technical role within Datacom, entrusted with safeguarding and modernising IT environments for some of South Australia’s most critical public sector agencies and enterprise clients. Supported government departments, regulators, and essential service providers including the **Courts Administration Authority, Department for Education, Department of Treasury and Finance, Electoral Commission SA, Legal Services Commission, SA Housing Trust, and Alinta Energy**.
@@ -109,8 +108,7 @@ Windows Server OS, Active Directory, DNS, ADFS, DHCP, DFS, VMware, Azure IaaS, A
 
 ---
 
-### Senior Support Engineer
-
+#### Senior Support Engineer
 **5G Networks** | *May 2018 – Nov 2020*
 
 Served as a senior escalation point and operations lead, responsible for the resilience and performance of mission-critical infrastructure supporting **People's Choice Credit Union (People First Bank)** and other enterprise clients. Oversaw high-stakes operations across two data centres with 70+ physical servers, 700+ virtual servers, and 42 remote sites.
