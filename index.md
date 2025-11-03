@@ -65,7 +65,7 @@ Promoted from Senior Solution Architect to Head of Technology (Jul 2025) within 
 
 Directed global IT strategy and operations for a defence technology organisation spanning four international offices (Adelaide, Canberra, London, Arlington). Held end-to-end accountability for IT infrastructure, cybersecurity, vendor management, and team leadership. Delivered a DISP-compliant, enterprise-grade IT environment while enabling rapid business growth in a high-stakes, regulated sector.
 
-- **Architected Defence-Grade Infrastructure**: Designed and operated a globally distributed IT environment meeting DISP cyber assurance requirements and ACSC Essential Eight Maturity Level 2. Built a secure foundation enabling Defence sector engagement and international expansion.
+- **Architected Defence-Grade Infrastructure**: Designed and operated a globally distributed IT environment meeting DISP cyber assurance requirements and ACSC Essential Eight Maturity Level. Built a secure foundation enabling Defence sector engagement and international expansion.
 - **Implemented Layered Security Controls**: Deployed layered defences across **Microsoft 365 (E5 Security)**, **Fortinet (FortiGate, FortiManager, FortiClient)**, **Jamf Pro**, **Veeam Data Cloud**, and **Microsoft Sentinel**. Centralised threat monitoring and incident response across all international locations.
 - **Standardised Global Fleet Management**: Secured and optimised a global fleet of Apple MacBooks via **Jamf Pro** and **Apple Business Manager**, implementing compliance baselines aligned with DISP and ISM requirements across all four offices.
 - **Managed Global Operations & Vendor Partnerships**: Directed IT operations, optimised vendor relationships, controlled budgets, and managed procurement across Microsoft, Atlassian, Fortinet, Jamf, Veeam, and strategic partners.
@@ -93,13 +93,12 @@ As **Technical Lead**, the most senior technical role within Datacom, entrusted 
 * **Established Infrastructure Standards**: Developed and implemented infrastructure standards and guidelines that aligned client IT objectives with business goals, raising the maturity of IT services across the public sector.
 
 **Key Achievements:**
-
 * Promoted to Datacom's highest engineering role in recognition of technical expertise and impact.
 * Delivered seamless infrastructure upgrades for mission-critical government and enterprise clients, ensuring service continuity with minimal downtime.
 * Enhanced client satisfaction and resilience by embedding automation, standards, and a culture of proactive operational excellence.
 
 **Strategic Impact:**
-- Established yourself as the trusted technical authority across South Australia's most critical government and enterprise environments.
+- Established as the trusted technical authority across South Australia's most critical government and enterprise environments.
 - Improved infrastructure maturity and operational reliability across diverse sectors through standardisation and discipline.
 - Built reputation for excellence in high-stakes, mission-critical environments.
 
