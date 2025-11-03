@@ -4,9 +4,9 @@ layout: default
 
 Hello, my name is **Cas**!
 
-I’m a dynamic IT Manager, Technical Leader, and Architect with a love for great BBQ, coffee, and building high-performing teams. With 20 years of hands-on experience, I thrive on a people-first, results-focused approach to help organisations transform their technology and achieve their goals.
+I'm a strategic technology leader and architect with two decades of hands-on experience building resilient, high-performance systems in defence, government, finance, and critical infrastructure. I lead with a people-first philosophy—empowering teams, anticipating risk, and translating complex technology strategy into sustainable business outcomes. Away from the office, you'll find me smoking low and slow BBQ or enjoying a great coffee - both fuel my passion for taking time to do things *right*.
 
-My expertise spans automation, infrastructure management, and DevOps, particularly within defence, government, finance, and critical infrastructure sectors. I specialise in designing and implementing resilient, high-performance systems that are secure, scalable, and efficient. A practical innovator and mentor, I blend Agile methodologies with a strategic, results-driven mindset to consistently deliver client-centric solutions that drive long-term value.
+My approach is fundamentally practical: a practical innovator and mentor who bridges the gap between ambitious vision and execution. I design secure and scalable IT environments that enable organisations to move faster, innovate confidently, and stay ahead of threat. I blend Agile methodologies with strategic thinking to drive lasting transformation, thriving in ambiguous, high-stakes environments where technical depth and clear communication deliver measurable outcomes.
 
 ### Contact Me
 - Email: [casbitton@gmail.com](mailto:casbitton@gmail.com)
@@ -15,12 +15,14 @@ My expertise spans automation, infrastructure management, and DevOps, particular
 
 ---
 
-### Highlights from My Career Journey
-- **Revitalised Global IT at Fivecast**: By championing automation, strategic vendor partnerships, and proactive management, I revitalised global IT processes and fortified cybersecurity across the organisation.
-- **Pioneered AIOps at Datacom**: I played a pivotal role in the successful implementation and deployment of **ScienceLogic** across diverse industries, leveraging AI and automation to streamline managed IT platforms and reduce complexity.
-- **Guided Teams Through Intricate Challenges**: I guided and led a remarkable team at **5G Networks**, helping them navigate complex and high-stakes environments with confidence and expertise.
-- **Enabled Cinematic Magic**: I collaborated tirelessly with the exceptional Technology Department at **Rising Sun Pictures** to deliver awe-inspiring Visual Effects for numerous [Feature Films and TV Series](http://www.imdb.com/company/co0044645/).
-- **Orchestrated National Growth**: I managed the construction and expansion of games.on.net, orchestrating its growth to become the largest national games network in Australia through strategic alignment with **Internode** and **iiNet**.
+### Highlights from My Career
+
+- **Scaling Technology at Duco**: Currently leading technology strategy and engineering teams for a specialist MSP, building next-generation managed services capabilities in cybersecurity, automation, and digital transformation across finance, government, and defence sectors.
+- **Built Defence-Grade Infrastructure at Fivecast**: Architected and operated a DISP-compliant, globally distributed IT environment serving a defence technology organisation, achieving ACSC Essential Eight compliance while enabling secure growth across international offices.
+- **Pioneered Enterprise Transformation at Datacom**: Drove successful AIOps implementation across diverse sectors—government agencies, education, healthcare, and enterprise—establishing myself as a trusted escalation point for complex infrastructure challenges.
+- **Led Mission-Critical Operations at 5G Networks**: Managed 24/7 operations for critical financial services infrastructure, building resilient systems that prioritised uptime, security, and team capability.
+- **Enabled Innovation at Rising Sun Pictures**: Collaborated with the technology team to design robust infrastructure supporting visual effects rendering for feature films and television productions.
+- **Architected National-Scale Networks**: Managed the buildout and expansion of games.on.net, establishing secure, resilient network infrastructure to support national gaming communities.
 
 ---
 
@@ -29,86 +31,103 @@ My expertise spans automation, infrastructure management, and DevOps, particular
 
 ---
 
+### Certifications & Clearances
+- **NV1 Security Clearance** (Active)
+- **Working with Children Check** (Current)
+
+---
+
 ### Professional Experience
 
-#### Head of Technology
-**Duco**
-*Jul 2025 – Present*
-As Head of Technology, I lead Duco’s technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure. My focus is on scaling managed services, strengthening cybersecurity, and driving digital transformation through automation and modern platforms.
+### Head of Technology
+**Duco** | *Dec 2024 – Present*
 
-- **Led and Mentored Teams**: I manage and mentor a growing engineering team, expanding Duco’s local capability with IT specialists to meet client demand and foster professional growth.
-- **Delivered Client-Centric Solutions**: I partner with clients to understand their business needs, delivering tailored solutions from cybersecurity remediation to comprehensive transformation roadmaps.
-- **Built a Next-Gen MSP**: I established Duco’s next-generation Managed Services Provider (MSP) model with **NinjaOne** and **ServiceNow**, enabling automation, orchestration, and scalable service delivery.
-- **Fortified Cybersecurity Posture**: I strengthened Duco’s security by integrating **Arctic Wolf** for 24/7 threat detection and enhancing strategic vendor partnerships with **Fortinet** and other key providers.
-- **Accelerated Digital Transformation**: I drove the adoption of enterprise platforms (**ServiceNow**, **Veeam**, **Arctic Wolf**) to modernise IT service delivery and accelerate process efficiency across the organisation.
-- **Drove Business Growth**: I supported presales and commercial modelling, producing well-structured client proposals that secured significant wins and positioned Duco as a trusted tech partner in South Australia.
+Promoted from Senior Solution Architect to Head of Technology (Jul 2025) within seven months, in recognition of strong leadership and real delivery against targets. I lead technology strategy, engineering teams, and client engagements across finance, government, defence, and critical infrastructure—positioning Duco as a trusted partner in Australia's most regulated and high-stakes sectors.
+
+* **Led and Mentored Teams**: Built and scaled a high-performing engineering team across IT infrastructure, cybersecurity, and automation, establishing career pathways and technical excellence frameworks.
+* **Delivered Client-Centric Solutions**: Partnered with state government agencies, defence primes, financial services firms, automotive manufacturers, and healthcare providers. Delivered solutions ranging from cybersecurity remediation to comprehensive digital transformation roadmaps.
+* **Built a Next-Gen MSP**: Architected and deployed a modern MSP operating model leveraging **NinjaOne** and **ServiceNow**, consolidating fragmented workflows into automated, auditable, and scalable service delivery that improves client outcomes and enables sustainable growth.
+* **Embedded Cybersecurity as Competitive Advantage**: Integrated **Arctic Wolf** for 24/7 threat detection and response, strengthened vendor partnerships with **Fortinet** and **Veeam**. Positioned Duco to serve clients with demanding security and compliance requirements in regulated sectors.
+* **Served as Virtual CISO**: Partnered with **Heathgate Resources** to build security roadmaps, implement compliance frameworks, and strengthen cyber resilience across resources sector operations—demonstrating strategic security leadership beyond infrastructure management.
+* **Architected Digital Transformation**: Partnered with clients across automotive, mining, legal, and healthcare to design and execute technology modernisation initiatives. Delivered enterprise infrastructure consultation and service delivery improvement for regional operations, including **APAC engagement with Bridgestone**.
+* **Supporting Commercial Growth**: Collaborated with presales, delivery, and account management to articulate Duco's value proposition in structured client proposals. Ensured technical feasibility, compliance alignment, and profitability expectations are aligned from the outset.
 
 **Key Achievements:**
-- Promoted to Head of Technology in recognition of strong leadership, measurable delivery outcomes, and strategic impact.
-- Delivered measurable improvements in service scalability, cybersecurity maturity, and client satisfaction.
-- Positioned Duco as a leading cybersecurity and managed services partner in South Australia through local talent, innovation, and strategic vendor partnerships.
 
-#### Senior Solution Architect
-**Duco**
-*Dec 2024 – Jul 2025*
-
-- **Consulted on High-Performance Solutions**: Provided consulting services for managed IT services, cyber security, and infrastructure management, ensuring secure, scalable, and high-performance solutions for clients.
-- **Aligned IT with Business Strategy**: Developed and optimised IT strategies that aligned with business needs, driving efficiency and operational resilience.
-- **Led Cloud and Security Initiatives**: Oversaw cloud infrastructure, security frameworks, and automation initiatives, leveraging technologies such as Azure, AWS, VMware, and DevOps tools.
-- **Partnered with Diverse Clients**: Collaborated with clients across diverse sectors—including automotive & manufacturing, mining & resources, government & legal services, and healthcare—to assess security risks, design robust IT architectures, and implement best practices.
-- **Guided Technical Teams**: Led technical teams, conducted workshops and training, and provided strategic guidance on IT modernisation.
+* Promoted to Head of Technology within seven months of joining Duco.
+* Delivered measurable improvements in service scalability, cybersecurity maturity, and client satisfaction.
+* Positioned Duco as a leading cybersecurity and managed services partner in South Australia through local talent, innovation, and vendor partnerships.
 
 ---
 
 #### IT Manager
-**Fivecast**
-*Oct 2022 – Oct 2024*
+**Fivecast** | *Oct 2022 – Oct 2024*
 
-- **Directed Global IT Strategy**: Managed a global team and acted as the primary technical architect for enterprise IT systems, designing and implementing infrastructure to support business objectives across regions.
-- **Optimised Operations and Service Delivery**: Directed IT operations and service delivery, building strong relationships with service providers, overseeing hardware suppliers, and optimising internal IT workflows with a focus on automation.
-- **Shaped the Global IT Roadmap**: Developed and maintained technical solution designs for enterprise applications and integrations, aligning with business goals and contributing strategic insights to the global IT roadmap.
-- **Enhanced Security Posture**: Led ongoing patch management for applications, infrastructure, and operating systems, proactively addressing vulnerability alerts and managing incidents to enhance security.
-- **Championed Information Security**: Acted as a system and risk owner within the information security program, strengthening compliance and the organisation’s security posture.
+Directed global IT strategy and operations for a defence technology organisation spanning four international offices (Adelaide, Canberra, London, Arlington). Held end-to-end accountability for IT infrastructure, cybersecurity, vendor management, and team leadership. Delivered a DISP-compliant, enterprise-grade IT environment while enabling rapid business growth in a high-stakes, regulated sector.
 
-**Technical Proficiencies:**
-- Microsoft Azure (Azure AD, Sentinel, Security Center), Atlassian (Bitbucket, Jira, Confluence), Fortinet (FortiGate, FortiManager), PowerShell, Apple Business Manager, Microsoft 365, Jamf
+- **Architected Defence-Grade Infrastructure**: Designed and operated a globally distributed IT environment meeting DISP cyber assurance requirements and ACSC Essential Eight Maturity Level 2. Built a secure foundation enabling Defence sector engagement and international expansion.
+- **Implemented Layered Security Controls**: Deployed layered defences across **Microsoft 365 (E5 Security)**, **Fortinet (FortiGate, FortiManager, FortiClient)**, **Jamf Pro**, **Veeam Data Cloud**, and **Microsoft Sentinel**. Centralised threat monitoring and incident response across all international locations.
+- **Standardised Global Fleet Management**: Secured and optimised a global fleet of Apple MacBooks via **Jamf Pro** and **Apple Business Manager**, implementing compliance baselines aligned with DISP and ISM requirements across all four offices.
+- **Managed Global Operations & Vendor Partnerships**: Directed IT operations, optimised vendor relationships, controlled budgets, and managed procurement across Microsoft, Atlassian, Fortinet, Jamf, Veeam, and strategic partners.
+- **Served as Risk Owner**: Acted as system and risk owner within the information security program. Delivered DISP audit compliance, maintained ongoing suitability assessments, and ensured enterprise IT alignment with Defence sector regulatory obligations.
 
----
+**Technical Leadership:**
+Microsoft Azure (AD, Sentinel, Security Center, Intune), Microsoft 365 (E3/E5 Security), Microsoft Defender Suite, Jamf Pro, Apple Business Manager, Fortinet (FortiGate, FortiManager, FortiClient, SD-WAN), Veeam Data Cloud for M365, Atlassian (Bitbucket, Jira, Confluence), PowerShell.
 
-#### Technical Lead & Senior Systems Engineer
-**Datacom**
-*Nov 2020 – Sep 2022*
-
-- **Transformed IT with AIOps**: Led a cross-functional team supporting Datacom’s AIOps initiatives, transforming client IT environments with automation and proactive platform management for diverse sectors including corporate, education, government, and healthcare.
-- **Contributed to Infrastructure Planning**: Contributed to infrastructure planning by assessing and recommending hardware/software acquisitions and optimising platform engineering and capacity planning.
-- **Provided Expert Escalation Support**: Acted as a primary escalation point across the organisation, providing expertise in Windows Server, Active Directory, VMware, Azure, AWS, and Microsoft 365 to resolve complex technical challenges.
-- **Ensured Operational Excellence**: Maintained high standards of operational excellence, overseeing change management, technical documentation, and system configurations to meet client service level agreements.
-- **Developed and Implemented Standards**: Developed and implemented infrastructure standards and computing guidelines, aligning IT objectives with both short- and long-term business goals.
-
-**Key Achievements:**
-- Successfully led multiple infrastructure upgrades, ensuring seamless transitions with minimal downtime.
-- Enhanced client satisfaction and service quality by fostering a culture of operational excellence and proactive support.
-
-**Technical Proficiencies:**
-- Windows Server OS, Active Directory, DNS, ADFS, DHCP, DFS, VMware, Azure IaaS, AWS integration, Exchange, systems monitoring tools, and BigFix
+**Strategic Impact:**
+- Established secure IT foundation enabling Defence sector engagement and international expansion.
+- Delivered DISP audit compliance and maintained information security program alignment.
+- Balanced security rigour with business enablement across a growing, international organisation.
 
 ---
 
-#### Senior Support Engineer
-**5G Networks Ltd**
-*May 2018 – Nov 2020*
+### Technical Lead
 
-- **Led High-Stakes Operations**: Led a team of 7 engineers, providing 24/7 support across two data centre locations with 70+ physical servers and 700+ virtual servers, and overseeing 42 remote sites.
-- **Ensured High Availability**: Spearheaded daily operations, managing hardware, software, and licensing to ensure high availability for a prominent Australian bank and other clients.
-- **Championed Process Improvement**: Championed service process improvements by introducing **PowerShell** scripting for task automation, reducing incident resolution times and increasing efficiency.
-- **Conducted Vulnerability Assessments**: Provided advanced support across **Microsoft 365**, **Azure**, **VMware**, and **Exchange** environments, conducting vulnerability assessments and implementing security measures.
+**Datacom** | *Nov 2020 – Sep 2022*
+
+As **Technical Lead**, the most senior technical role within Datacom, entrusted with safeguarding and modernising IT environments for some of South Australia’s most critical public sector agencies and enterprise clients. Supported government departments, regulators, and essential service providers including the **Courts Administration Authority, Department for Education, Department of Treasury and Finance, Electoral Commission SA, Legal Services Commission, SA Housing Trust, and Alinta Energy**.
+
+* **Pioneered AIOps Transformation**: Led the successful implementation and deployment of **ScienceLogic** and AIOps initiatives, embedding AI-driven monitoring and automation across government, education, healthcare, and energy sectors. Improved reliability and reduced operational incidents through intelligent infrastructure management.
+* **Guided Infrastructure Strategy**: Shaped infrastructure planning and capacity planning for critical government agencies including the Department for Child Protection, Department of Primary Industries and Regions, and Department of the Premier and Cabinet, ensuring scalable and secure platforms.
+* **Provided Expert Escalation Support**: Served as the top technical escalation point nationally, resolving complex infrastructure challenges across Windows Server, Active Directory, VMware, Azure, AWS, and Microsoft 365. Built reputation for excellence in high-stakes environments such as Electoral Commission SA during critical operational periods.
+* **Ensured Operational Excellence**: Maintained rigorous service stability and SLA compliance through disciplined change management, technical documentation, and standards adoption across government and enterprise clients.
+* **Established Infrastructure Standards**: Developed and implemented infrastructure standards and guidelines that aligned client IT objectives with business goals, raising the maturity of IT services across the public sector.
 
 **Key Achievements:**
-- Maintained comprehensive documentation and reporting to meet contractual obligations.
-- Elevated service delivery through effective vendor management, standards compliance, and proactive security measures, enhancing overall client satisfaction.
+
+* Promoted to Datacom's highest engineering role in recognition of technical expertise and impact.
+* Delivered seamless infrastructure upgrades for mission-critical government and enterprise clients, ensuring service continuity with minimal downtime.
+* Enhanced client satisfaction and resilience by embedding automation, standards, and a culture of proactive operational excellence.
+
+**Strategic Impact:**
+- Established yourself as the trusted technical authority across South Australia's most critical government and enterprise environments.
+- Improved infrastructure maturity and operational reliability across diverse sectors through standardisation and discipline.
+- Built reputation for excellence in high-stakes, mission-critical environments.
+
+**Technical Proficiencies:**
+Windows Server OS, Active Directory, DNS, ADFS, DHCP, DFS, VMware, Azure IaaS, AWS integration, Exchange, systems monitoring tools, Science Logic, BigFix.
+
+---
+
+### Senior Support Engineer
+
+**5G Networks** | *May 2018 – Nov 2020*
+
+Served as a senior escalation point and operations lead, responsible for the resilience and performance of mission-critical infrastructure supporting **People's Choice Credit Union (People First Bank)** and other enterprise clients. Oversaw high-stakes operations across two data centres with 70+ physical servers, 700+ virtual servers, and 42 remote sites.
+
+* **Led High-Stakes Operations**: Managed a team of seven engineers providing 24/7 mission-critical support, ensuring uptime and continuity for financial services and enterprise environments.
+* **Ensured High Availability**: Directed daily operations, infrastructure management, and licensing, maintaining service availability for a major Australian bank and enterprise customers.
+* **Drove Process Improvement**: Introduced **PowerShell scripting** and automation, reducing incident resolution times and improving efficiency across support workflows.
+* **Strengthened Security Posture**: Conducted vulnerability assessments and delivered advanced support across **Microsoft 365, Azure, VMware, and Exchange**, implementing proactive security measures.
+* **Optimised Vendor Engagement**: Coordinated with key vendors to enhance service delivery, maintain compliance, and meet strict contractual obligations.
+
+**Key Achievements:**
+
+* Ensured uninterrupted services for **People’s Choice Credit Union**, a critical financial institution, by maintaining rigorous operational standards and proactive issue resolution.
+* Delivered measurable improvements in efficiency, client satisfaction, and service reliability through automation and enhanced security practices.
 
 **Technical Highlights:**
-- Microsoft Azure, Microsoft 365, VMware, Forcepoint Cloud Security, Qualys, Fortinet Network Security Associate, Cisco HyperFlex, New Relic Certified Performance Pro
+Microsoft Azure, Microsoft 365, VMware, Forcepoint Cloud Security, Qualys, Fortinet Network Security Associate, Cisco HyperFlex, New Relic Certified Performance Pro.
 
 ---
 
@@ -120,7 +139,7 @@ As Head of Technology, I lead Duco’s technology strategy, engineering teams, a
 #### Paul Roper, Infrastructure and Courtroom Technology Manager at Courts Administration Authority
 * [LinkedIn](https://www.linkedin.com/in/paul-roper-b3728735/)
 
-#### Dale Tuzewski, Cyber Tools Specialist at People's Choice Credit Union
+#### Dale Tuzewski, Cyber Solutions Specialist at People's Choice Credit Union
 * [LinkedIn](https://www.linkedin.com/in/dale-tuzewski-78bb3aa/)
 
 #### Brad Sprigg, National Dynamics 365 Consultant at Data#3
